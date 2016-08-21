@@ -102,15 +102,15 @@
     <div class="col-lg-4 col-md-4 col-sm-4 col-xs-12">
     <div class="service-item">
     <img class="img-circle" src="assets/img/LDG.png" height="100px">
-    <h3>Dr. Lewis Griffin</h3>
-    <p>Group Leader | Principal Instigator</p>
+    <h3><a href="http://iris.ucl.ac.uk/iris/browse/profile?upi=LDGRI51">Dr. Lewis Griffin</a></h3>
+    <p>Group Leader | Principal Investigator</p>
     </div>
     </div>
 
     <div class="col-lg-4 col-md-4 col-sm-4 col-xs-12">
     <div class="service-item">
     <img class="img-circle" src="assets/img/NJ.png" alt="" height="100px">
-    <h3>Dr. Nicolas Jaccard</h3>
+    <h3><a href="http://iris.ucl.ac.uk/iris/browse/profile?upi=NJACC16">Dr. Nicolas Jaccard</a></h3>
     <p>Research Associate</p>
     </div>
     </div>
@@ -126,7 +126,7 @@
 
     <div class="col-lg-4 col-md-4 col-sm-4 col-xs-12">
     <div class="service-item">
-    <img class="img-circle" src="assets/img/JTA.jpg" alt="" height="100px">
+    <img class="img-circle" src="assets/img/JTA.png" alt="" height="100px">
     <h3>Jerone Andrews</h3>
     <p>PhD Student</p>
     </div>
@@ -167,7 +167,7 @@
     <tr>
       <td>2016</td>
       <td>Transfer Representation-Learning for Anomaly Detection</td>
-      <td>ICMLA</td>
+      <td>ICML</td>
     </tr>
     <tr>
       <td>2016</td>
