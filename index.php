@@ -77,7 +77,7 @@
         <h2 class="subtitle">Computational Security Science</h2>
 
         <div class="col-md-6 col-sm-6 col-xs-12 animated fadeInLeft">
-        <img src="assets/img/CarDetection2.png">
+        <img src="assets/img/carDetection2.png">
         </div>
         <div class="col-md-6 col-sm-6 col-xs-12 animated fadeInRight delay-0-5">
         <p style="font-size: 12pt">Computational Security Science (COMPASS) is a research group in University College London's Computer Science department developing state-of-the-art computational methods for the exploitation of security imagery and datasets. We work with a range of academic, industrial, and governmental partners to produce a step change in detection capabilities.</p>
