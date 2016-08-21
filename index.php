@@ -369,7 +369,7 @@
     <div id="copyright">
     <div class="container">
     <div class="row">
-    <div class="col-md-12" align="center"><p>© COMPASS 2016 All right reserved. Original design by by <a href="http://graygrids.com">GrayGrids</a></p></div>
+    <div class="col-md-12" align="center"><p>© COMPASS 2016 All right reserved. Original design by <a href="http://graygrids.com">GrayGrids</a></p></div>
         <div class="col-md-12" align="center">
         <span class="to-top"><a href="#hero-area"><i class="fa fa-angle-up fa-2x"></i></a></span>
         </div>
