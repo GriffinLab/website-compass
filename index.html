@@ -3,7 +3,7 @@
       <head>
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
-        <title>COMPASS - Computation Security Science</title>
+        <title>Corporal - Bootstrap Personal & Business Theme</title>
 
         
 
@@ -24,11 +24,9 @@
         <link rel="stylesheet" type="text/css" href="assets/extras/animate.css">
         <link rel="stylesheet" type="text/css" href="assets/extras/lightbox.css">
 
+
         <!-- jQuery Load -->
         <script src="assets/js/jquery-min.js"></script>
-        <script type='text/javascript' src='js/dynatable/jquery.dynatable.js'></script>
-
-
         <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
         
         <!--[if lt IE 9]>
@@ -51,15 +49,16 @@
             <span class="icon-bar"></span>
             <span class="icon-bar"></span>
           </button>
-          <a class="navbar-brand" href="#home"></i> COMPASS</a>
+          <a class="navbar-brand" href="#home"><i class="fa fa-briefcase"></i> COMPASS</a>
         </div>
 
         <div class="collapse navbar-collapse" id="navbar">
                             <ul class="nav navbar-nav col-md-9 pull-right">
                             <li class="active"><a href="#hero-area"><i class="fa fa-home"></i> Home</a></li>
-                            <li><a href="#theTeam"><i class="fa fa-puzzle-piece"></i> Team</a></li>
-                            <li><a href="#research"><i class="fa fa-flask"></i> Research</a></li>
-                            <li><a href="#contactUS"><i class="fa fa-envelope"></i> Contact</a></li>
+                            <li><a href="#clients"><i class="fa fa-puzzle-piece"></i> Team</a></li>
+                            <li><a href="#portfolio"><i class="fa fa-flask"></i> Research</a></li>
+                            <li><a href="#about"><i class="fa fa-info"></i> About</a></li>
+                            <li><a href="#contact"><i class="fa fa-envelope"></i> Contact</a></li>
                             </ul>
         </div>
       </div>
@@ -76,11 +75,12 @@
         <h1 class="title">COMPASS</h1>
         <h2 class="subtitle">Computational Security Science</h2>
 
-        <div class="col-md-6 col-sm-6 col-xs-12 animated fadeInLeft">
-        <img src="assets/img/CarDetection2.png">
-        </div>
+        <img class="col-md-6 col-sm-6 col-xs-12 animated fadeInLeft" src="assets/img/hero/macbook.png" alt="">
+
         <div class="col-md-6 col-sm-6 col-xs-12 animated fadeInRight delay-0-5">
-        <p style="font-size: 12pt">Computational Security Science (COMPASS) is a research group in University College London's Computer Science department developing state-of-the-art computational methods for the exploitation of security imagery and datasets. We work with a range of academic, industrial, and governmental partners to produce a step change in detection capabilities.</p>
+        <p>Computational Security Science (COMPASS) is a research group in University College London's Computer Science department developing state-of-the-art computational methods for the exploitation of security imagery and datasets. We work with a range of academic, industrial, and governmental partners to produce a step change in detection capabilities.</p>
+<!--         <a href="#" class="btn btn-common btn-lg">Donload Now!</a>
+        <a href="#" class="btn btn-primary btn-lg">Learn More</a> -->
         </div>
 
 </div>
@@ -93,7 +93,7 @@
 
 <!-- Service Section -->
 
-<section id="theTeam">
+<section id="services">
 <div class="container text-center">
 <div class="row">
 <h1 class="title">The team</h1>
@@ -141,7 +141,7 @@
 
 <!-- Portfolio Section -->
 
-    <section id="research">
+    <section id="portfolio">
     <div class="container">
     <div class="row">
     <h1 class="title">Our Research</h1>
@@ -149,79 +149,7 @@
 
 
 
-<div class="dynatable-demo">
-<table id="sorting-example" class="table table-bordered">
-  <thead>
-    <tr>
-      <th>Year</th>
-      <th>Title</th>
-      <th>Journal</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>2016</td>
-      <td>Threat Image Projection (TIP) into X-ray images of cargo containers for training humans and machines</td>
-      <td>ICCST</td>
-    </tr>
-    <tr>
-      <td>2016</td>
-      <td>Transfer Representation-Learning for Anomaly Detection</td>
-      <td>ICMLA</td>
-    </tr>
-    <tr>
-      <td>2016</td>
-      <td>Tackling the x-ray cargo inspection challenge using machine learning</td>
-      <td>SPIE Defense + Security</td>
-    </tr>
-    <tr>
-      <td>2016</td>
-      <td>Detecting Anomalous Data Using Auto-Encoders</td>
-      <td>IJMLC</td>
-    </tr>
-    <tr>
-      <td>2015</td>
-      <td>Using deep learning on X-ray images to detect threats</td>
-      <td>DSDS</td>
-    </tr>
-     <tr>
-      <td>2015</td>
-      <td>Detection of cargo container loads from X-ray images</td>
-      <td>IET ICISP</td>
-    </tr>
-         <tr>
-      <td>2014</td>
-      <td>Labelling images without classifiers</td>
-      <td>York Doctoral Symposium</td>
-    </tr>  
-             <tr>
-      <td>2014</td>
-      <td>Automated detection of cars in transmission X-ray images of freight containers</td>
-      <td>AVSS</td>
-    </tr> 
-                 <tr>
-      <td>2014</td>
-      <td>Reduction of Wobble Artefacts in Images From Mobile Transmission X-ray Vehicle Scanners</td>
-      <td>ICIST</td>
-    </tr>      
-  </tbody>
-</table>
-</div>
-
-<script>
-  $('#sorting-example').dynatable({
-    features: {
-      paginate: false,
-      search: false,
-      recordCount: false,
-    },
-    dataset: {
-      sorts: { year: 1 },
-      ajax:false
-    }
-});
-</script>
- <!--    <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12">
+    <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12">
     <div class="portfolio-item wow fadeInLeft" data-wow-delay=".5s">
     <a href="#"><img src="assets/img/portfolio/img1.jpg" alt=""></a>
     <div class="overlay">
@@ -286,7 +214,7 @@
     </div>
     </div>
     </div>
-    </div> -->
+    </div>
       
     </div>
     </div>
@@ -297,13 +225,19 @@
 <!-- Client Section -->
     <section id="clients">
     <div class="container">
-    <div class="row" style="align:center">
+    <div class="row">
 
-    <h1 class="title">Partners and Funding</h1>
-<!--     <h2 class="subtitle">Lorem Ipsum is simply dummy text</h2> -->
-    <div class="wow fadeInDown" align="center">
-    <img src="assets/img/rapiscan.png" height="100px" alt="Rapiscan Systems" align="center">
-    <img src="assets/img/epsrc.jpg" height="100px" alt="EPSRC" align="center">
+    <h1 class="title">Clients</h1>
+    <h2 class="subtitle">Lorem Ipsum is simply dummy text</h2>
+
+    <div class="wow fadeInDown">
+    <img class="col-md-3 col-md-3 col-sm-3 col-xs-12" src="assets/img/clients/img1.png" alt="client-1">
+
+    <img class="col-md-3 col-md-3 col-sm-3 col-xs-12" src="assets/img/clients/img2.png" alt="client-2">
+
+    <img class="col-md-3 col-md-3 col-sm-3 col-xs-12" src="assets/img/clients/img3.png" alt="client-3">
+
+    <img class="col-md-3 col-md-3 col-sm-3 col-xs-12" src="assets/img/clients/img4.png" alt="client-4">
 
     </div>
     </div>
@@ -315,7 +249,7 @@
 
 <!-- About Section -->
 
-<!--     <section id="about">
+    <section id="about">
     <div class="container">
     <div class="row">
     <h1 class="title">About us</h1>
@@ -331,32 +265,65 @@
 
     </div>
     </div>
-    </section> -->
+    </section>
 <!-- About Section End -->
 
 
 
 <!-- Conatct Section -->
-    <section id="contactUS">
+    <section id="contact">
     <div class="container text-center">
     <div class="row">
     <h1 class="title">Contact us</h1>
-    <div class="col-md-6 wow fadeInRight">
-    <p align="left">
-    Department of Computer Science<br>
-    University College London<br>
-    Gower Street<br>
-    London<br>
-    WC1E 6BT<br>
-    Telephone: +44 (0)20 7679 7214
-    <div class="social-links" align="left">
-    <a class="social" href="#" target="_blank"><i class="fa fa-twitter fa-2x"></i></a>
-    </div>
-    </p>
-    </div>
-    <div class="col-md-6 wow fadeInRight">
-    <img src="assets/img/ucl-eng-logo.png">
 
+    <h2 class="subtitle">Lorem Ipsum is simply dummy text</h2>
+
+
+    <form role="form" class="contact-form" method="post">
+    <div class="col-md-6 wow fadeInLeft" data-wow-delay=".5s">
+    <div class="form-group">
+    <div class="controls">
+    <input type="text" class="form-control" placeholder="Name" name="name">
+    </div>
+    </div>
+    <div class="form-group">
+    <div class="controls">
+    <input type="email" class="form-control email" placeholder="Email" name="email">
+    </div>
+    </div>
+    <div class="form-group">
+    <div class="controls">
+    <input type="text" class="form-control requiredField" placeholder="Subject" name="subject">
+    </div>
+    </div>
+
+    <div class="form-group">
+
+    <div class="controls">
+    <textarea rows="7" class="form-control" placeholder="Message" name="message"></textarea>
+    </div>
+    </div>
+    <button type="submit" id="submit" class="btn btn-lg btn-common">Send</button><div id="success" style="color:#34495e;"></div>
+
+    </div>
+    </form>
+
+    <div class="col-md-6 wow fadeInRight">
+    <div class="social-links">
+    <a class="social" href="#" target="_blank"><i class="fa fa-facebook fa-2x"></i></a>
+    <a class="social" href="#" target="_blank"><i class="fa fa-twitter fa-2x"></i></a>
+    <a class="social" href="#" target="_blank"><i class="fa fa-google-plus fa-2x"></i></a>
+    <a class="social" href="#" target="_blank"><i class="fa fa-linkedin fa-2x"></i></a>
+	</div>
+<div class="contact-info">
+    <p><i class="fa fa-map-marker"></i> Seattle, WA 00000, USA</p>
+     <p><i class="fa fa-envelope"></i> info@yourwebsite.com</p>
+</div>
+
+    <p>
+    A wonderful serenity has taken possession of my entire soul, like these sweet mornings of spring which I enjoy with my whole heart. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla quam velit, vulputate eu pharetra nec, mattis ac neque. Duis vulputate commodo lectus, ac blandit elit.<br>
+    </p>
+    
     </div>
 
     </div>
@@ -368,12 +335,10 @@
 
     <div id="copyright">
     <div class="container">
-    <div class="row">
-    <div class="col-md-12" align="center"><p>© COMPASS 2016 All right reserved. Original design by by <a href="http://graygrids.com">GrayGrids</a></p></div>
-        <div class="col-md-12" align="center">
-        <span class="to-top"><a href="#hero-area"><i class="fa fa-angle-up fa-2x"></i></a></span>
+    <div class="col-md-10"><p>© Corporal 2014 All right reserved. Design & Developed by <a href="http://graygrids.com">GrayGrids</a></p></div>
+    <div class="col-md-2">
+        <span class="to-top pull-right"><a href="#hero-area"><i class="fa fa-angle-up fa-2x"></i></a></span>
         </div>
-    </div>
     </div>
     </div>
 <!-- Copyright Section End-->
