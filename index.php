@@ -402,7 +402,7 @@
     E-mail: l.griffin@cs.ucl.ac.uk
     <div class="social-links" align="left">
     <a class="social" href="https://twitter.com/COMPASS_UCL" target="_blank"><i class="fa fa-twitter fa-2x"></i></a>
-    <a class="social" href="mailto:" target="_blank"><i class="fa fa-envelope fa-2x"></i></a>
+    <a class="social" href="mailto:l.griffin@cs.ucl.ac.uk" target="_blank"><i class="fa fa-envelope fa-2x"></i></a>
     </div>
     </p>
     </div>
