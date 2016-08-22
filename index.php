@@ -271,6 +271,7 @@
 </table>
 </div>
 
+
 <script>
   $('#publications').dynatable({
     features: {
