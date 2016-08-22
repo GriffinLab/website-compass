@@ -98,6 +98,10 @@
 <div class="row">
 <h1 class="title">The team</h1>
 <h2 class="subtitle">Meet the members of the COMPASS team</h2>
+    <div class="row">
+
+    <div class="col-lg-2 col-md-2 col-sm-2 col-xs-12">
+    </div>
 
     <div class="col-lg-4 col-md-4 col-sm-4 col-xs-12">
     <div class="service-item">
@@ -106,7 +110,7 @@
     <p>Group Leader | Principal Investigator</p>
     </div>
     </div>
-
+    
     <div class="col-lg-4 col-md-4 col-sm-4 col-xs-12">
     <div class="service-item">
     <img class="img-circle" src="assets/img/NJ.png" alt="" height="100px">
@@ -114,11 +118,20 @@
     <p>Research Associate</p>
     </div>
     </div>
+    </div>
+    
+    <div class="col-lg-2 col-md-2 col-sm-2 col-xs-12">
+    </div>
+
+    <div class="row">
+
+    <div class="col-lg-2 col-md-2 col-sm-2 col-xs-12">
+    </div>
 
     <div class="col-lg-4 col-md-4 col-sm-4 col-xs-12">
     <div class="service-item">
     <img class="img-circle" src="assets/img/TWR.png" alt="" height="100px">
-    <h3>Thomas Rogers</h3>
+    <h3><a href="http://twrogers.work">Thomas Rogers</a></h3>
     <p>PhD Student</p>
     </div>
     </div>
@@ -127,11 +140,15 @@
     <div class="col-lg-4 col-md-4 col-sm-4 col-xs-12">
     <div class="service-item">
     <img class="img-circle" src="assets/img/JTA.png" alt="" height="100px">
-    <h3>Jerone Andrews</h3>
+    <h3><a href="https://www.ucl.ac.uk/secret/current_students/2013_cohort/2013-cohort-profiles/jerone-andrews">Jerone Andrews</a></h3>
     <p>PhD Student</p>
     </div>
     </div>
 
+    <div class="col-lg-2 col-md-2 col-sm-2 col-xs-12">
+    </div>
+
+    </div>
 </div>
 </div>
  </section>
