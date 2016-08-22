@@ -185,12 +185,13 @@
 
 
 <div class="dynatable-demo">
-<table id="publications" class="table table-bordered">
+<table id="publications" class="table table-bordered" style="-webkit-border-radius: 4px; -moz-border-radius: 4px; border-radius: 4px;">
   <thead>
     <tr>
       <th>Year</th>
       <th>Title</th>
       <th>Journal/Conf.</th>
+      <th style="display: none">Authors</th>
     </tr>
   </thead>
   <tbody>
@@ -198,61 +199,73 @@
       <td>2016</td>
       <td><a href="http://arxiv.org/abs/1608.01017">Automated X-ray Image Analysis for Cargo Security: Critical Review and Future Promise</a></td>
       <td>arXiv</td>
+      <td>Thomas Rogers TWR, Nicolas Jaccard NJ, Lewis Griffin LDG</td>
     </tr>
      <tr>
       <td>2016</td>
       <td><a href="http://arxiv.org/abs/1606.08078">Detection of concealed cars in complex cargo X-ray imagery using deep learning</a></td>
       <td>arXiv</td>
+      <td>Nicolas Jaccard NJ, Thomas Rogers TWR, Edward Morton EJM, Lewis Griffin LDG</td>
     </tr>
      <tr>
       <td>2016</td>
       <td><a href="http://arxiv.org/abs/1608.03847">Measuring and correcting wobble in large-scale transmission radiography</a></td>
       <td>arXiv</td>
+      <td>Thomas Rogers TWR, James Ollier JO, Edward Morton EJM, Lewis Griffin LDG</td>
     </tr>
     <tr>
       <td>2016</td>
       <td><a href="http://imageanalysis.cs.ucl.ac.uk/documents/TIP_Carnahan_web.pdf">Threat Image Projection (TIP) into X-ray images of cargo containers for training humans and machines</a></td>
       <td>IEEE ICCST</td>
+      <td>Thomas Rogers TWR, Nicolas Jaccard NJ, Emmanouil Protonotarios EPD, James Ollier JO, Edward Morton EM, Lewis Griffin LDG</td>
     </tr>
     <tr>
       <td>2016</td>
       <td><a href ="https://drive.google.com/file/d/0B8Dg3PBX90KNeFROU3BDT1ZhTXlSV3Rsb3JfVWNTWkpLTUhJ/view">Transfer Representation-Learning for Anomaly Detection</a></td>
       <td>ICML</td>
+      <td>Jerone Andrews JTAA, Thomas Tanay TT, Edward Morton EJM, Lewis Griffin LDG</td>
     </tr>
     <tr>
       <td>2016</td>
       <td><a href ="http://imageanalysis.cs.ucl.ac.uk/documents/SPIE_DEFENSE_16_NJ_TWR_XRAY.pdf">Tackling the x-ray cargo inspection challenge using machine learning</a></td>
       <td>SPIE D+S</td>
+      <td>Nicolas Jaccard NJ, Thomas Rogers TWR, Edward Morton EJM, Lewis Griffin LDG</td>
     </tr>
     <tr>
       <td>2016</td>
       <td><a href ="http://www.ijmlc.org/vol6/565-L009.pdf">Detecting Anomalous Data Using Auto-Encoders</a></td>
       <td>IJMLC</td>
+      <td>Jerone Andrews JTAA, Edward Morton WJM, Lewis Griffin LDG</td>
     </tr>
     <tr>
       <td>2015</td>
       <td><a href ="http://imageanalysis.cs.ucl.ac.uk/documents/NJaccard_DSDS.pdf">Using deep learning on X-ray images to detect threats</a></td>
       <td>DSDS</td>
+      <td>Nicolas Jaccard NJ, Thomas Rogers TWR, Edward Morton EJM, Lewis Griffin LDG</td>
     </tr>
      <tr>
       <td>2015</td>
       <td><a href ="http://digital-library.theiet.org/content/conferences/10.1049/cp.2015.1762">Detection of cargo container loads from X-ray images</a></td>
       <td>IET ICISP</td>
+      <td>Thomas Rogers TWR, Nicolas Jaccard NJ, Edward Morton EJM, Lewis Griffin LDG</td>
     </tr>
          <tr>
       <td>2014</td>
       <td><a href ="https://www.cs.york.ac.uk/ftpdir/reports/2014/YCS/494/YCS-2014-494.pdf#page=39">Labelling images without classifiers</a></td>
       <td>YDS</td>
+      <td>Theodore Boyd TB, Lewis Griffin LDG</td>
     </tr>  
              <tr>
       <td>2014</td>
       <td><a href ="http://ieeexplore.ieee.org/xpl/login.jsp?tp=&arnumber=6918699&url=http%3A%2F%2Fieeexplore.ieee.org%2Fxpls%2Fabs_all.jsp%3Farnumber%3D6918699">Automated detection of cars in transmission X-ray images of freight containers</a></td>
       <td>IEEE AVSS</td>
+      <td>Nicolas Jaccard NJ, Thomas Rogers TWR, Lewis Griffin LDG</td>
     </tr> 
                  <tr>
       <td>2014</td>
       <td><a href ="http://ieeexplore.ieee.org/xpl/login.jsp?tp=&arnumber=6958504&url=http%3A%2F%2Fieeexplore.ieee.org%2Fxpls%2Fabs_all.jsp%3Farnumber%3D6958504">Reduction of Wobble Artefacts in Images From Mobile Transmission X-ray Vehicle Scanners</a></td>
       <td>IEEE ICIST</td>
+      <td>Thomas Rogers TWR, James Ollier JO, Edward Morton EJM, Lewis Griffin LDG</td>
     </tr>      
   </tbody>
 </table>
@@ -262,11 +275,10 @@
   $('#publications').dynatable({
     features: {
       paginate: false,
-      search: false,
+      search: true,
       recordCount: false,
     },
     dataset: {
-      sorts: { year: 1 },
       ajax:false
     }
 });
