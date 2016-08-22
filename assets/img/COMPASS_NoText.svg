@@ -13,7 +13,7 @@
    height="108.24643"
    id="svg2"
    version="1.1"
-   inkscape:version="0.48.4 r9939"
+   inkscape:version="0.91 r13725"
    sodipodi:docname="COMPASS_NoText.svg">
   <defs
      id="defs4" />
@@ -47,7 +47,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -67,7 +67,7 @@
        transform="matrix(0.98480775,0.17364818,-0.17364818,0.98480775,0,0)" />
     <text
        xml:space="preserve"
-       style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Haettenschweiler;-inkscape-font-specification:Haettenschweiler"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;line-height:125%;font-family:Haettenschweiler;-inkscape-font-specification:Haettenschweiler;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
        x="24.999998"
        y="196.6479"
        id="text2985"
@@ -76,7 +76,7 @@
          id="tspan2987"
          x="24.999998"
          y="196.6479"
-         style="font-size:150px;font-style:italic;fill:#040356;fill-opacity:1">COMP</tspan></text>
+         style="font-style:italic;font-size:150px;fill:#040356;fill-opacity:1">COMP </tspan></text>
     <text
        xml:space="preserve"
        style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Haettenschweiler;-inkscape-font-specification:Haettenschweiler"
@@ -91,7 +91,7 @@
          style="font-size:150px;font-style:italic;fill:#040356;fill-opacity:1">A</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Haettenschweiler;-inkscape-font-specification:Haettenschweiler"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;line-height:125%;font-family:Haettenschweiler;-inkscape-font-specification:Haettenschweiler;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
        x="337.73007"
        y="195.35147"
        id="text2985-3-7"
@@ -100,6 +100,6 @@
          id="tspan2987-6-5"
          x="337.73007"
          y="195.35147"
-         style="font-size:150px;font-style:italic;fill:#080673;fill-opacity:1">SS</tspan></text>
+         style="font-style:italic;font-size:150px;fill:#080673;fill-opacity:1">SS </tspan></text>
   </g>
 </svg>
