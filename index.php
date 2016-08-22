@@ -5,7 +5,23 @@
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <title>UCL COMPASS - Computational Security Science</title>
 
-        
+	<link rel="apple-touch-icon" sizes="57x57" href="assets/icons/apple-icon-57x57.png">
+	<link rel="apple-touch-icon" sizes="60x60" href="assets/icons/apple-icon-60x60.png">	
+	<link rel="apple-touch-icon" sizes="72x72" href="assets/icons/apple-icon-72x72.png">
+	<link rel="apple-touch-icon" sizes="76x76" href="assets/icons/apple-icon-76x76.png">
+	<link rel="apple-touch-icon" sizes="114x114" href="assets/icons/apple-icon-114x114.png">
+	<link rel="apple-touch-icon" sizes="120x120" href="assets/icons/apple-icon-120x120.png">
+	<link rel="apple-touch-icon" sizes="144x144" href="assets/icons/apple-icon-144x144.png">
+	<link rel="apple-touch-icon" sizes="152x152" href="assets/icons/apple-icon-152x152.png">
+	<link rel="apple-touch-icon" sizes="180x180" href="assets/icons/apple-icon-180x180.png">
+	<link rel="icon" type="image/png" sizes="192x192"  href="assets/icons/android-icon-192x192.png">
+	<link rel="icon" type="image/png" sizes="32x32" href="assets/icons/favicon-32x32.png">
+	<link rel="icon" type="image/png" sizes="96x96" href="assets/icons/favicon-96x96.png">
+	<link rel="icon" type="image/png" sizes="16x16" href="assets/icons/favicon-16x16.png">
+	<link rel="manifest" href="assets/icons/manifest.json">
+	<meta name="msapplication-TileColor" content="#ffffff">
+	<meta name="msapplication-TileImage" content="assets/icons/ms-icon-144x144.png">
+	<meta name="theme-color" content="#ffffff">
 
         <!-- Bootstrap -->
         <link rel="stylesheet" type="text/css" href="assets/css/bootstrap.min.css">
@@ -174,10 +190,25 @@
     <tr>
       <th>Year</th>
       <th>Title</th>
-      <th>Journal</th>
+      <th>Journal/Conf.</th>
     </tr>
   </thead>
   <tbody>
+     <tr>
+      <td>2016</td>
+      <td><a href="http://arxiv.org/abs/1608.01017">Automated X-ray Image Analysis for Cargo Security: Critical Review and Future Promise</a></td>
+      <td>arXiv</td>
+    </tr>
+     <tr>
+      <td>2016</td>
+      <td><a href="http://arxiv.org/abs/1606.08078">Detection of concealed cars in complex cargo X-ray imagery using deep learning</a></td>
+      <td>arXiv</td>
+    </tr>
+     <tr>
+      <td>2016</td>
+      <td><a href="http://arxiv.org/abs/1608.03847">Measuring and correcting wobble in large-scale transmission radiography</a></td>
+      <td>arXiv</td>
+    </tr>
     <tr>
       <td>2016</td>
       <td>Threat Image Projection (TIP) into X-ray images of cargo containers for training humans and machines</td>
