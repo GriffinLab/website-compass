@@ -20,7 +20,7 @@
 	<link rel="icon" type="image/png" sizes="16x16" href="assets/icons/favicon-16x16.png">
 	<link rel="manifest" href="assets/icons/manifest.json">
 	<meta name="msapplication-TileColor" content="#ffffff">
-	<meta name="msapplication-TileImage" content="assets/icons/ms-icon-144x144.png">
+	<meta name="msapplication-TileImage" content="/ms-icon-144x144.png">
 	<meta name="theme-color" content="#ffffff">
 
         <!-- Bootstrap -->
@@ -211,48 +211,48 @@
     </tr>
     <tr>
       <td>2016</td>
-      <td>Threat Image Projection (TIP) into X-ray images of cargo containers for training humans and machines</td>
-      <td>ICCST</td>
+      <td><a href="http://imageanalysis.cs.ucl.ac.uk/documents/TIP_Carnahan_web.pdf">Threat Image Projection (TIP) into X-ray images of cargo containers for training humans and machines</a></td>
+      <td>IEEE ICCST</td>
     </tr>
     <tr>
       <td>2016</td>
-      <td>Transfer Representation-Learning for Anomaly Detection</td>
+      <td><a href ="https://drive.google.com/file/d/0B8Dg3PBX90KNeFROU3BDT1ZhTXlSV3Rsb3JfVWNTWkpLTUhJ/view">Transfer Representation-Learning for Anomaly Detection</a></td>
       <td>ICML</td>
     </tr>
     <tr>
       <td>2016</td>
-      <td>Tackling the x-ray cargo inspection challenge using machine learning</td>
-      <td>SPIE Defense + Security</td>
+      <td><a href ="http://imageanalysis.cs.ucl.ac.uk/documents/SPIE_DEFENSE_16_NJ_TWR_XRAY.pdf">Tackling the x-ray cargo inspection challenge using machine learning</a></td>
+      <td>SPIE D+S</td>
     </tr>
     <tr>
       <td>2016</td>
-      <td>Detecting Anomalous Data Using Auto-Encoders</td>
+      <td><a href ="http://www.ijmlc.org/vol6/565-L009.pdf">Detecting Anomalous Data Using Auto-Encoders</a></td>
       <td>IJMLC</td>
     </tr>
     <tr>
       <td>2015</td>
-      <td>Using deep learning on X-ray images to detect threats</td>
+      <td><a href ="http://imageanalysis.cs.ucl.ac.uk/documents/NJaccard_DSDS.pdf">Using deep learning on X-ray images to detect threats</a></td>
       <td>DSDS</td>
     </tr>
      <tr>
       <td>2015</td>
-      <td>Detection of cargo container loads from X-ray images</td>
+      <td><a href ="http://digital-library.theiet.org/content/conferences/10.1049/cp.2015.1762">Detection of cargo container loads from X-ray images</a></td>
       <td>IET ICISP</td>
     </tr>
          <tr>
       <td>2014</td>
-      <td>Labelling images without classifiers</td>
-      <td>York Doctoral Symposium</td>
+      <td><a href ="https://www.cs.york.ac.uk/ftpdir/reports/2014/YCS/494/YCS-2014-494.pdf#page=39">Labelling images without classifiers</a></td>
+      <td>YDS</td>
     </tr>  
              <tr>
       <td>2014</td>
-      <td>Automated detection of cars in transmission X-ray images of freight containers</td>
-      <td>AVSS</td>
+      <td><a href ="http://ieeexplore.ieee.org/xpl/login.jsp?tp=&arnumber=6918699&url=http%3A%2F%2Fieeexplore.ieee.org%2Fxpls%2Fabs_all.jsp%3Farnumber%3D6918699">Automated detection of cars in transmission X-ray images of freight containers</a></td>
+      <td>IEEE AVSS</td>
     </tr> 
                  <tr>
       <td>2014</td>
-      <td>Reduction of Wobble Artefacts in Images From Mobile Transmission X-ray Vehicle Scanners</td>
-      <td>ICIST</td>
+      <td><a href ="http://ieeexplore.ieee.org/xpl/login.jsp?tp=&arnumber=6958504&url=http%3A%2F%2Fieeexplore.ieee.org%2Fxpls%2Fabs_all.jsp%3Farnumber%3D6958504">Reduction of Wobble Artefacts in Images From Mobile Transmission X-ray Vehicle Scanners</a></td>
+      <td>IEEE ICIST</td>
     </tr>      
   </tbody>
 </table>
@@ -399,7 +399,7 @@
     WC1E 6BT<br>
     Telephone: +44 (0)20 7679 7214
     <div class="social-links" align="left">
-    <a class="social" href="#" target="_blank"><i class="fa fa-twitter fa-2x"></i></a>
+    <a class="social" href="https://twitter.com/COMPASS_UCL" target="_blank"><i class="fa fa-twitter fa-2x"></i></a>
     </div>
     </p>
     </div>
