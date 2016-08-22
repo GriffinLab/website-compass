@@ -3,7 +3,7 @@
       <head>
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
-        <title>COMPASS - Computational Security Science</title>
+        <title>UCL COMPASS - Computational Security Science</title>
 
         
 
@@ -169,7 +169,7 @@
 
 
 <div class="dynatable-demo">
-<table id="sorting-example" class="table table-bordered">
+<table id="publications" class="table table-bordered">
   <thead>
     <tr>
       <th>Year</th>
@@ -228,7 +228,7 @@
 </div>
 
 <script>
-  $('#sorting-example').dynatable({
+  $('#publications').dynatable({
     features: {
       paginate: false,
       search: false,
@@ -317,10 +317,9 @@
     <section id="clients">
     <div class="container">
     <div class="row" style="align:center">
-
     <h1 class="title">Partners and Funding</h1>
 <!--     <h2 class="subtitle">Lorem Ipsum is simply dummy text</h2> -->
-    <div class="wow fadeInDown" align="center">
+    <div class="wow fadeInDown row" align="center">
     <img src="assets/img/rapiscan.png" height="100px" alt="Rapiscan Systems" align="center">
     <img src="assets/img/epsrc.jpg" height="100px" alt="EPSRC" align="center">
 
