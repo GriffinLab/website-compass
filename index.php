@@ -89,17 +89,95 @@
 <div class="container">
     <div class="row">
 <div class="col-md-12">
-         <h1 class="title"><img class="align:center" width="50%" src="assets/img/COMPASS_NoText.png"></h1> 
-         <p class="subtitle" style="font-size: 12pt">COMPASS (Computational Security Science) is a research group in University College London's Computer Science department developing state-of-the-art computational methods for the exploitation of security imagery and datasets. We work with a range of academic, industrial, and governmental partners to produce a step-change in detection capabilities.</p>
+        <!-- <h1 class="title"><img class="align:center" width="50%" src="assets/img/COMPASS_NoText.png"></h1> 
         
-        <!--<p style="font-size: 12pt">Computational Security Science (COMPASS) is a research group in University College London's Computer Science department developing state-of-the-art computational methods for the exploitation of security imagery and datasets. We work with a range of academic, industrial, and governmental partners to produce a step-change in detection capabilities.</p> -->
+        <p style="font-size: 12pt">Computational Security Science (COMPASS) is a research group in University College London's Computer Science department developing state-of-the-art computational methods for the exploitation of security imagery and datasets. We work with a range of academic, industrial, and governmental partners to produce a step-change in detection capabilities.</p>-->
+<div id="myCarousel" class="carousel slide" data-ride="carousel">
+      <!-- Indicators -->
+      <ol class="carousel-indicators">
+        <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
+        <li data-target="#myCarousel" data-slide-to="1"></li>
+        <li data-target="#myCarousel" data-slide-to="2"></li>
+      </ol>
+      <div class="carousel-inner" role="listbox">
+      <div class="item active">
+          <div class="container">
+          <div class="first-slide row">
+        <div class="col-md-12 col-sm-12 col-xs-12 animated fadeInLeft">
+        <h1 class="title"><img style="align:center" width="50%" src="assets/img/COMPASS_NoText.png"></h1> 
+        </div>
+        
+        <div class="col-md-2 col-sm-2 col-xs-12"></div>
+        <div class="col-md-8 col-sm-8 col-xs-12 animated fadeInRight delay-0-5">
+        <h4 style="text-align:center">Computational Security Science (COMPASS) is a research group in University College London's Computer Science department developing state-of-the-art computational methods for the exploitation of security imagery and datasets. We work with a range of academic, industrial, and governmental partners to produce a step-change in detection capabilities.</h4>
+        </div>
+        <div class="col-md-2 col-sm-2 col-xs-12"></div>
+        </div>
+
+          </div>
+        </div>
+        <div class="item">
+          <div class="container">
+          <div class="second-slide row">
+         
+        <div class="col-md-12 col-sm-12 col-xs-12 animated fadeInLeft">
+        <h1 class="title"><img style="align:center" width="70%" src="assets/img/cars_carasoul.png" alt="Our algorithms detect hidden cars without generating false alarms."></h1>
+        </div>
+        <div class="col-md-2 col-sm-2 col-xs-12"></div>
+
+        <div class="col-md-8 col-sm-8 col-xs-12 animated fadeInRight delay-0-5">
+        <h4 style="text-align:center"><a href="http://arxiv.org/abs/1606.08078">Our algorithms detect hidden cars without generating false alarms.</a></h4>
+        </div>
+        <div class="col-md-2 col-sm-2 col-xs-12"></div>
+       
+
+        </div>
+
+          </div>
+        </div>
+        <div class="item">
+          <div class="container">
+          <div class="third-slide row">
+         
+        <div class="col-md-12 col-sm-12 col-xs-12 animated fadeInLeft">
+        <h1 class="title"><img style="align:center" width="70%" src="assets/img/cars_carasoul.png" alt="Our algorithms detect hidden cars without generating false alarms."></h1>
+        </div>
+        <div class="col-md-2 col-sm-2 col-xs-12"></div>
+
+        <div class="col-md-8 col-sm-8 col-xs-12 animated fadeInRight delay-0-5">
+        <h4 style="text-align:center">Our algorithms can detect contraband in declared-as-empty containers without giving false alarms for container damage.</h4>
+        </div>
+        <div class="col-md-2 col-sm-2 col-xs-12"></div>
+        
+
+        </div>
+
+          </div>
+        </div>
+  
+      </div>
+      <a class="left carousel-control" href="#myCarousel" role="button" data-slide="prev">
+        <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
+        <span class="sr-only">Previous</span>
+      </a>
+      <a class="right carousel-control" href="#myCarousel" role="button" data-slide="next">
+        <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
+        <span class="sr-only">Next</span>
+      </a>
+    </div><!-- /.carousel -->
+
+         <!--
+
+         <h1 class="title"><img class="align:center" width="50%" src="assets/img/COMPASS_NoText.png"></h1> 
+        
+        <p style="font-size: 12pt">Computational Security Science (COMPASS) is a research group in University College London's Computer Science department developing state-of-the-art computational methods for the exploitation of security imagery and datasets. We work with a range of academic, industrial, and governmental partners to produce a step-change in detection capabilities.</p>
        
         <div class="col-md-9 col-sm-9 col-xs-12 animated fadeInLeft">
         <a href="http://arxiv.org/abs/1606.08078"><img src="assets/img/cars_carasoul.png" alt="Our algorithms detect hidden cars without generating false alarms."></a>
         </div>
         <div class="col-md-3 col-sm-3 col-xs-12 animated fadeInRight delay-0-5">
         <h2><a href="http://arxiv.org/abs/1606.08078">Our algorithms detect hidden cars without generating false alarms.</a></h2>
-        </div>
+        </div> -->
 
 </div>
 
@@ -182,24 +260,15 @@
     <h1 class="title">Our Research</h1>
     <h2 class="subtitle">Selection of recent COMPASS research output</h2>
 
-<div id="search-function-example-price-filter" style="float: left; margin-bottom: 1em;">
-Filter by type of application: 
-<select id="type">
-  <option></option>
-  <option>Object Detection</option>
-  <option>Anomaly Detection</option>
-  <option>Image Pre-Processing</option>
-  <option>Review</option>
-</select>
-</div>
-<table id="publications" class="table table-bordered" style="-webkit-border-radius: 4px; -moz-border-radius: 4px; border-radius: 4px;">
+
+
+<div class="dynatable-demo">
+<table id="publications" class="table table-bordered">
   <thead>
     <tr>
       <th>Year</th>
       <th>Title</th>
       <th>Journal/Conf.</th>
-      <th style="display: none">Authors</th>
-      <th style="display: none">Type</th>
     </tr>
   </thead>
   <tbody>
@@ -207,112 +276,78 @@ Filter by type of application:
       <td>2016</td>
       <td><a href="http://arxiv.org/abs/1608.01017">Automated X-ray Image Analysis for Cargo Security: Critical Review and Future Promise</a></td>
       <td>arXiv</td>
-      <td>Thomas Rogers TWR, Nicolas Jaccard NJ, Lewis Griffin LDG</td>
-      <td>Review Object Detection Anomaly Detection Image Pre-Processing</td>
     </tr>
      <tr>
       <td>2016</td>
       <td><a href="http://arxiv.org/abs/1606.08078">Detection of concealed cars in complex cargo X-ray imagery using deep learning</a></td>
       <td>arXiv</td>
-      <td>Nicolas Jaccard NJ, Thomas Rogers TWR, Edward Morton EJM, Lewis Griffin LDG</td>
-      <td>Object Detection</td>
     </tr>
      <tr>
       <td>2016</td>
       <td><a href="http://arxiv.org/abs/1608.03847">Measuring and correcting wobble in large-scale transmission radiography</a></td>
       <td>arXiv</td>
-      <td>Thomas Rogers TWR, James Ollier JO, Edward Morton EJM, Lewis Griffin LDG</td>
-      <td>Image Pre-Processing</td>
     </tr>
     <tr>
       <td>2016</td>
       <td><a href="http://imageanalysis.cs.ucl.ac.uk/documents/TIP_Carnahan_web.pdf">Threat Image Projection (TIP) into X-ray images of cargo containers for training humans and machines</a></td>
       <td>IEEE ICCST</td>
-      <td>Thomas Rogers TWR, Nicolas Jaccard NJ, Emmanouil Protonotarios EPD, James Ollier JO, Edward Morton EM, Lewis Griffin LDG</td>
-      <td>Object Detection</td>
     </tr>
     <tr>
       <td>2016</td>
       <td><a href ="https://drive.google.com/file/d/0B8Dg3PBX90KNeFROU3BDT1ZhTXlSV3Rsb3JfVWNTWkpLTUhJ/view">Transfer Representation-Learning for Anomaly Detection</a></td>
       <td>ICML</td>
-      <td>Jerone Andrews JTAA, Thomas Tanay TT, Edward Morton EJM, Lewis Griffin LDG</td>
-      <td>Anomaly Detection</td>
     </tr>
     <tr>
       <td>2016</td>
       <td><a href ="http://imageanalysis.cs.ucl.ac.uk/documents/SPIE_DEFENSE_16_NJ_TWR_XRAY.pdf">Tackling the x-ray cargo inspection challenge using machine learning</a></td>
       <td>SPIE D+S</td>
-      <td>Nicolas Jaccard NJ, Thomas Rogers TWR, Edward Morton EJM, Lewis Griffin LDG</td>
-      <td>Review Object Detection Image Pre-Processing</td>
     </tr>
     <tr>
       <td>2016</td>
       <td><a href ="http://www.ijmlc.org/vol6/565-L009.pdf">Detecting Anomalous Data Using Auto-Encoders</a></td>
       <td>IJMLC</td>
-      <td>Jerone Andrews JTAA, Edward Morton WJM, Lewis Griffin LDG</td>
-      <td>Anomaly Detection</td>
     </tr>
     <tr>
       <td>2015</td>
       <td><a href ="http://imageanalysis.cs.ucl.ac.uk/documents/NJaccard_DSDS.pdf">Using deep learning on X-ray images to detect threats</a></td>
       <td>DSDS</td>
-      <td>Nicolas Jaccard NJ, Thomas Rogers TWR, Edward Morton EJM, Lewis Griffin LDG</td>
-      <td>Object Detection</td>
     </tr>
      <tr>
       <td>2015</td>
       <td><a href ="http://digital-library.theiet.org/content/conferences/10.1049/cp.2015.1762">Detection of cargo container loads from X-ray images</a></td>
       <td>IET ICISP</td>
-      <td>Thomas Rogers TWR, Nicolas Jaccard NJ, Edward Morton EJM, Lewis Griffin LDG</td>
-      <td>Object Detection</td>
     </tr>
          <tr>
       <td>2014</td>
       <td><a href ="https://www.cs.york.ac.uk/ftpdir/reports/2014/YCS/494/YCS-2014-494.pdf#page=39">Labelling images without classifiers</a></td>
       <td>YDS</td>
-      <td>Theodore Boyd TB, Lewis Griffin LDG</td>
-      <td>Object Detection</td>
     </tr>  
              <tr>
       <td>2014</td>
       <td><a href ="http://ieeexplore.ieee.org/xpl/login.jsp?tp=&arnumber=6918699&url=http%3A%2F%2Fieeexplore.ieee.org%2Fxpls%2Fabs_all.jsp%3Farnumber%3D6918699">Automated detection of cars in transmission X-ray images of freight containers</a></td>
       <td>IEEE AVSS</td>
-      <td>Nicolas Jaccard NJ, Thomas Rogers TWR, Lewis Griffin LDG</td>
-      <td>Object Detection</td>
     </tr> 
                  <tr>
       <td>2014</td>
       <td><a href ="http://ieeexplore.ieee.org/xpl/login.jsp?tp=&arnumber=6958504&url=http%3A%2F%2Fieeexplore.ieee.org%2Fxpls%2Fabs_all.jsp%3Farnumber%3D6958504">Reduction of Wobble Artefacts in Images From Mobile Transmission X-ray Vehicle Scanners</a></td>
       <td>IEEE ICIST</td>
-      <td>Thomas Rogers TWR, James Ollier JO, Edward Morton EJM, Lewis Griffin LDG</td>
-      <td>Image Pre-Processing</td>
     </tr>      
   </tbody>
 </table>
-
-
+</div>
 
 <script>
-
-$('#publications').bind('dynatable:init',function(e,dynatable){
-    dynatable.queries.functions['type'] = function(record, queryValue) {
-      return record.type.indexOf(queryValue)>-1;
-    };
-  })
-
-  .dynatable({
+  $('#publications').dynatable({
     features: {
       paginate: false,
-      search: true,
+      search: false,
       recordCount: false,
     },
     dataset: {
+      sorts: { year: 1 },
       ajax:false
-    },
-    inputs: {
-      queries: $('#type')
     }
-  });
+});
 </script>
  <!--    <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12">
     <div class="portfolio-item wow fadeInLeft" data-wow-delay=".5s">
