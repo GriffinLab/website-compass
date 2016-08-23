@@ -21,23 +21,8 @@ a:hover {
   color: #e76c3c;
 }
 
-#dynatable-query-search-publications{
-    box-shadow: rgba(0, 0, 0, 0.0745098) 0px 1px 1px 0px inset;
-    box-sizing: content-box;
-    color: rgb(85, 85, 85);
-    height: 20px;
-    vertical-align: middle;
-    width: 206px;
-    column-rule-color: rgb(85, 85, 85);
-    perspective-origin: 110px 15px;
-    transform-origin: 110px 15px;
-    border: 1px solid rgb(204, 204, 204);
-    border-radius: 4px 4px 4px 4px;
-    font: normal normal normal normal 14px / 20px "Helvetica Neue", Helvetica, Arial, sans-serif;
-    margin: 0px 0px 10px;
-    outline: rgb(85, 85, 85) none 0px;
-    padding: 4px 6px;
-    transition: border 0.2s linear 0s, box-shadow 0.2s linear 0s;
+#dynatable-search-publications{
+    float:right;
 }
 
 
