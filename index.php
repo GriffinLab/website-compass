@@ -67,7 +67,7 @@
             <span class="icon-bar"></span>
             <span class="icon-bar"></span>
           </button>
-          <a class="navbar-brand" href="#home"></i> <img style="align:center" width="100px%" src="assets/img/COMPASS_NoText.png"></a>
+          <a class="navbar-brand" href="#home"></i> COMPASS</a>
         </div>
 
         <div class="collapse navbar-collapse" id="navbar">
@@ -470,8 +470,12 @@ $('#publications').bind('dynatable:init',function(e,dynatable){
     <h1 class="title">Partners and Funding</h1>
 <!--     <h2 class="subtitle">Lorem Ipsum is simply dummy text</h2> -->
     <div class="wow fadeInDown row" align="center">
-    <img src="assets/img/rapiscan.png" height="100px" alt="Rapiscan Systems" align="center">
-    <img src="assets/img/epsrc.jpg" height="100px" alt="EPSRC" align="center">
+    <div class="col-lg-4 col-md-4 col-sm-4 col-xs-12">
+    <a href="http://www.uclb.com/"><img src="assets/img/UCLB_logo.gif" height="100px" alt="Rapiscan Systems" align="center"></a></div>
+    <div class="col-lg-4 col-md-4 col-sm-4 col-xs-12">
+    <a href="http://www.rapiscansystems.com/"><img src="assets/img/RapiscanSystems.jpg" height="100px" alt="Rapiscan Systems" align="center"></a></div>
+    <div class="col-lg-4 col-md-4 col-sm-4 col-xs-12">
+    <a href="https://www.epsrc.ac.uk/"><img src="assets/img/epsrc.jpg" height="100px" alt="EPSRC" align="center"></a></div>
 
     </div>
     </div>
