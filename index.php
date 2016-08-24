@@ -123,7 +123,7 @@
                 <div class="fsecond-slide row" style="min-height:500px">
                    <div class="col-md-2 col-sm-2 col-xs-12"></div>
                   <div class="col-md-8 col-sm-8 col-xs-12 animated fadeInLeft delay-0-5">
-                    <h4 style="text-align:center">Can you spot the small metalic threat in this image?</h4>
+                    <h4 style="text-align:center">Can you spot the small metallic threat in this image?</h4>
                   </div>
                   <div class="col-md-2 col-sm-2 col-xs-12"></div>
                   <div class="col-md-12 col-sm-12 col-xs-12 animated fadeInLeft-0-5">
