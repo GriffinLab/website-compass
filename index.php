@@ -104,7 +104,7 @@
               <div class="container">
               <div class="first-slide row" style="min-height:500px">
                   <div class="col-md-12 col-sm-12 col-xs-12 animated fadeInLeft">
-                    <h1 class="title"><img style="align:center" width="50%" src="assets/img/COMPASS_NoText_new.png"></h1> 
+                    <h1 class="title"><img style="align:center" width="60%" src="assets/img/COMPASS_NoText_new.png"></h1> 
                   </div>
 
                   <div class="col-md-2 col-sm-2 col-xs-12"></div>
@@ -145,7 +145,7 @@
                   <div class="col-md-2 col-sm-2 col-xs-12"></div>
 
                   <div class="col-md-8 col-sm-8 col-xs-12 animated fadeInRight delay-0-5">
-                    <h4 style="text-align:center">Our algorithms can detect contraband hidden in declared-as-empty containers without giving false alarms for container damage</h4>
+                    <h4 style="text-align:center">Our algorithms can detect contraband hidden in declared-as-empty containers without giving false alarms for container damage, straps or detritus.</h4>
                   </div>
                   <div class="col-md-2 col-sm-2 col-xs-12"></div>
 
@@ -156,28 +156,8 @@
             </div>
 
           </div>
-      <!-- <a class="left carousel-control" href="#myCarousel" role="button" data-slide="prev">
-        <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
-        <span class="sr-only">Previous</span>
-      </a>-->
-      <!-- <a class="right carousel-control" href="#myCarousel" role="button" data-slide="next">
-        <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
-        <span class="sr-only">Next</span>
-      </a>-->
-    </div><!-- /.carousel -->
-
-         <!--
-
-         <h1 class="title"><img class="align:center" width="50%" src="assets/img/COMPASS_NoText.png"></h1> 
-        
-        <p style="font-size: 12pt">Computational Security Science (COMPASS) is a research group in University College London's Computer Science department developing state-of-the-art computational methods for the exploitation of security imagery and datasets. We work with a range of academic, industrial, and governmental partners to produce a step-change in detection capabilities.</p>
-       
-        <div class="col-md-9 col-sm-9 col-xs-12 animated fadeInLeft">
-        <a href="http://arxiv.org/abs/1606.08078"><img src="assets/img/cars_carasoul.png" alt="Our algorithms detect hidden cars without generating false alarms."></a>
-        </div>
-        <div class="col-md-3 col-sm-3 col-xs-12 animated fadeInRight delay-0-5">
-        <h2><a href="http://arxiv.org/abs/1606.08078">Our algorithms detect hidden cars without generating false alarms.</a></h2>
-        </div> -->
+      
+    </div>
 
 </div>
 
