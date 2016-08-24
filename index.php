@@ -140,12 +140,12 @@
                 <div class="third-slide row" style="min-height:500px">
 
                   <div class="col-md-12 col-sm-12 col-xs-12 animated fadeInLeft">
-                    <h1 class="title"><img style="align:center" width="70%" src="assets/img/Empties.png" alt="Our algorithms detect hidden cars without generating false alarms."></h1>
+                    <h1 class="title"><img style="align:center" width="65%" src="assets/img/Empties.png" alt="Our algorithms detect hidden cars without generating false alarms."></h1>
                   </div>
                   <div class="col-md-2 col-sm-2 col-xs-12"></div>
 
                   <div class="col-md-8 col-sm-8 col-xs-12 animated fadeInRight delay-0-5">
-                    <h4 style="text-align:center">Our algorithms can detect contraband in declared-as-empty containers without giving false alarms for container damage.</h4>
+                    <h4 style="text-align:center">Our algorithms can detect contraband hidden in declared-as-empty containers without giving false alarms for container damage</h4>
                   </div>
                   <div class="col-md-2 col-sm-2 col-xs-12"></div>
 
