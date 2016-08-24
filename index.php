@@ -67,7 +67,7 @@
             <span class="icon-bar"></span>
             <span class="icon-bar"></span>
           </button>
-          <a class="navbar-brand" href="#home"></i> COMPASS</a>
+          <a class="navbar-brand" href="#home"></i> <img style="align:center" width="180px" src="assets/img/COMPASS_NoText_new.png"></a>
         </div>
 
         <div class="collapse navbar-collapse" id="navbar">
