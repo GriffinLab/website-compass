@@ -98,6 +98,7 @@
             <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
             <li data-target="#myCarousel" data-slide-to="1"></li>
             <li data-target="#myCarousel" data-slide-to="2"></li>
+            <li data-target="#myCarousel" data-slide-to="3"></li>
           </ol>
           <div class="carousel-inner" role="listbox">
             <div class="item active">
@@ -116,12 +117,36 @@
 
               </div>
             </div>
+
             <div class="item">
               <div class="container">
-                <div class="second-slide row" style="min-height:500px">
+                <div class="fsecond-slide row" style="min-height:500px">
+                   <div class="col-md-2 col-sm-2 col-xs-12"></div>
+                  <div class="col-md-8 col-sm-8 col-xs-12 animated fadeInLeft delay-0-5">
+                    <h4 style="text-align:center">Can you spot the small metalic threat in this image?</h4>
+                  </div>
+                  <div class="col-md-2 col-sm-2 col-xs-12"></div>
+                  <div class="col-md-12 col-sm-12 col-xs-12 animated fadeInLeft-0-5">
+                    <h1 class="title"><img style="align:center" width="65%" src="assets/img/SMT.png" alt="SMT detection for cargo."></h1>
+                  </div>
+                  <div class="col-md-2 col-sm-2 col-xs-12"></div>
+                  <div class="col-md-8 col-sm-8 col-xs-12 animated fadeInRight delay-0-5">
+                    <h4 style="text-align:center">Our algorithms can.</h4>
+                  </div>
+                  <div class="col-md-2 col-sm-2 col-xs-12"></div>
+
+
+                </div>
+
+              </div>
+            </div>
+
+            <div class="item">
+              <div class="container">
+                <div class="third-slide row" style="min-height:500px">
 
                   <div class="col-md-12 col-sm-12 col-xs-12 animated fadeInLeft">
-                    <h1 class="title"><img style="align:center" width="70%" src="assets/img/cars_carasoul.png" alt="Our algorithms detect hidden cars without generating false alarms."></h1>
+                    <h1 class="title"><img style="align:center" width="70%" src="assets/img/cars_carasoul.png" alt="Concealed car detection in cargo"></h1>
                   </div>
                   <div class="col-md-2 col-sm-2 col-xs-12"></div>
 
@@ -137,10 +162,10 @@
             </div>
             <div class="item">
               <div class="container">
-                <div class="third-slide row" style="min-height:500px">
+                <div class="fourth-slide row" style="min-height:500px">
 
                   <div class="col-md-12 col-sm-12 col-xs-12 animated fadeInLeft">
-                    <h1 class="title"><img style="align:center" width="65%" src="assets/img/Empties.png" alt="Our algorithms detect hidden cars without generating false alarms."></h1>
+                    <h1 class="title"><img style="align:center" width="65%" src="assets/img/Empties.png" alt="Empty verification for cargo."></h1>
                   </div>
                   <div class="col-md-2 col-sm-2 col-xs-12"></div>
 
@@ -154,7 +179,7 @@
 
               </div>
             </div>
-
+            
           </div>
       
     </div>
