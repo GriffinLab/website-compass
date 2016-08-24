@@ -104,12 +104,12 @@
               <div class="container">
               <div class="first-slide row" style="min-height:500px">
                   <div class="col-md-12 col-sm-12 col-xs-12 animated fadeInLeft">
-                    <h1 class="title"><img style="align:center" width="50%" src="assets/img/COMPASS_NoText.png"></h1> 
+                    <h1 class="title"><img style="align:center" width="50%" src="assets/img/COMPASS_NoText_new.png"></h1> 
                   </div>
 
                   <div class="col-md-2 col-sm-2 col-xs-12"></div>
                   <div class="col-md-8 col-sm-8 col-xs-12 animated fadeInRight delay-0-5">
-                    <h4 style="text-align:center">Computational Security Science (COMPASS) is a research group in University College London's Computer Science department developing state-of-the-art computational methods for the exploitation of security imagery and datasets. We work with a range of academic, industrial, and governmental partners to produce a step-change in detection capabilities.</h4>
+                    <h4 style="text-align:justify">Computational Security Science (COMPASS) is a research group in UCL's Computer Science Department developing state-of-the-art computational methods for the exploitation of security imagery. We work with a range of academic, industrial, and governmental partners to produce a step-change in detection capabilities.</h4>
                   </div>
                   <div class="col-md-2 col-sm-2 col-xs-12"></div>
                 </div>
@@ -126,7 +126,7 @@
                   <div class="col-md-2 col-sm-2 col-xs-12"></div>
 
                   <div class="col-md-8 col-sm-8 col-xs-12 animated fadeInRight delay-0-5">
-                    <h4 style="text-align:center">Our algorithms detect hidden cars without generating false alarms.</h4>
+                    <h4 style="text-align:center"><a href="http://arxiv.org/abs/1606.08078">Our algorithms</a> detect hidden cars without generating false alarms.</h4>
                   </div>
                   <div class="col-md-2 col-sm-2 col-xs-12"></div>
 
