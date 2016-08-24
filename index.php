@@ -140,7 +140,7 @@
                 <div class="third-slide row" style="min-height:500px">
 
                   <div class="col-md-12 col-sm-12 col-xs-12 animated fadeInLeft">
-                    <h1 class="title"><img style="align:center" width="70%" src="assets/img/empties.png" alt="Our algorithms detect hidden cars without generating false alarms."></h1>
+                    <h1 class="title"><img style="align:center" width="70%" src="assets/img/Empties.png" alt="Our algorithms detect hidden cars without generating false alarms."></h1>
                   </div>
                   <div class="col-md-2 col-sm-2 col-xs-12"></div>
 
