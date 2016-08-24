@@ -513,7 +513,8 @@ $('#publications').bind('dynatable:init',function(e,dynatable){
     <div class="container text-center">
     <div class="row">
     <h1 class="title">Contact us</h1>
-    <div class="col-md-6 wow fadeInRight">
+    <div class="wow fadeInRight row" align="center">
+    <div class="col-lg-9 col-md-9 col-sm-9 col-xs-12">
     <p align="left">
     Lewis D. Griffin<br>
     Department of Computer Science<br>
@@ -529,13 +530,13 @@ $('#publications').bind('dynatable:init',function(e,dynatable){
     </div>
     </p>
     </div>
-    <div class="col-md-6 wow fadeInRight">
+    <div class="col-md-3">
     <img src="assets/img/ucl-eng-logo.png">
 
     </div>
 
     </div>
-    </div>
+    </div></div>
     </section>
 
 <!-- Conatct Section End-->
