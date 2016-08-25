@@ -3,25 +3,29 @@
       <head>
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
-        <title>UCL COMPASS - Computational Security Science</title>
 
-  <link rel="apple-touch-icon" sizes="57x57" href="assets/icons/apple-icon-57x57.png">
-  <link rel="apple-touch-icon" sizes="60x60" href="assets/icons/apple-icon-60x60.png">  
-  <link rel="apple-touch-icon" sizes="72x72" href="assets/icons/apple-icon-72x72.png">
-  <link rel="apple-touch-icon" sizes="76x76" href="assets/icons/apple-icon-76x76.png">
-  <link rel="apple-touch-icon" sizes="114x114" href="assets/icons/apple-icon-114x114.png">
-  <link rel="apple-touch-icon" sizes="120x120" href="assets/icons/apple-icon-120x120.png">
-  <link rel="apple-touch-icon" sizes="144x144" href="assets/icons/apple-icon-144x144.png">
-  <link rel="apple-touch-icon" sizes="152x152" href="assets/icons/apple-icon-152x152.png">
-  <link rel="apple-touch-icon" sizes="180x180" href="assets/icons/apple-icon-180x180.png">
-  <link rel="icon" type="image/png" sizes="192x192"  href="assets/icons/android-icon-192x192.png">
-  <link rel="icon" type="image/png" sizes="32x32" href="assets/icons/favicon-32x32.png">
-  <link rel="icon" type="image/png" sizes="96x96" href="assets/icons/favicon-96x96.png">
-  <link rel="icon" type="image/png" sizes="16x16" href="assets/icons/favicon-16x16.png">
-  <link rel="manifest" href="assets/icons/manifest.json">
-  <meta name="msapplication-TileColor" content="#ffffff">
-  <meta name="msapplication-TileImage" content="/ms-icon-144x144.png">
-  <meta name="theme-color" content="#ffffff">
+        <title>UCL COMPASS (Computational Security Science) | Group research</title>
+        <meta name="keywords" content="UCL COMPASS, computational security science, Lewis Griffin, border security, computer vision,  UCL, border security, aviation security, deep learning, machine learning, automated threat detection, cargo containers, baggage, fast parcel, x-ray imagery, research">
+        <meta content="UCL COMPASS" name="author">
+        <meta content="UCL COMPASS (Computational Security Science) Group Website" name="description">
+
+        <link rel="apple-touch-icon" sizes="57x57" href="assets/icons/apple-icon-57x57.png">
+        <link rel="apple-touch-icon" sizes="60x60" href="assets/icons/apple-icon-60x60.png">  
+        <link rel="apple-touch-icon" sizes="72x72" href="assets/icons/apple-icon-72x72.png">
+        <link rel="apple-touch-icon" sizes="76x76" href="assets/icons/apple-icon-76x76.png">
+        <link rel="apple-touch-icon" sizes="114x114" href="assets/icons/apple-icon-114x114.png">
+        <link rel="apple-touch-icon" sizes="120x120" href="assets/icons/apple-icon-120x120.png">
+        <link rel="apple-touch-icon" sizes="144x144" href="assets/icons/apple-icon-144x144.png">
+        <link rel="apple-touch-icon" sizes="152x152" href="assets/icons/apple-icon-152x152.png">
+        <link rel="apple-touch-icon" sizes="180x180" href="assets/icons/apple-icon-180x180.png">
+        <link rel="icon" type="image/png" sizes="192x192"  href="assets/icons/android-icon-192x192.png">
+        <link rel="icon" type="image/png" sizes="32x32" href="assets/icons/favicon-32x32.png">
+        <link rel="icon" type="image/png" sizes="96x96" href="assets/icons/favicon-96x96.png">
+        <link rel="icon" type="image/png" sizes="16x16" href="assets/icons/favicon-16x16.png">
+        <link rel="manifest" href="assets/icons/manifest.json">
+        <meta name="msapplication-TileColor" content="#ffffff">
+        <meta name="msapplication-TileImage" content="/ms-icon-144x144.png">
+        <meta name="theme-color" content="#ffffff">
 
         <!-- Bootstrap -->
         <link rel="stylesheet" type="text/css" href="assets/css/bootstrap.min.css">
@@ -67,7 +71,7 @@
             <span class="icon-bar"></span>
             <span class="icon-bar"></span>
           </button>
-          <a class="navbar-brand" href="#home"></i> <img style="align:center" width="180px" src="assets/img/COMPASS_NoText_new.png"></a>
+          <a class="navbar-brand" href="#"><img style="align:center" width="180px" src="assets/img/COMPASS_NoText_new.png" alt="UCL COMPASS (Computational Security Science) logo"></a>
         </div>
 
         <div class="collapse navbar-collapse" id="navbar">
@@ -105,7 +109,7 @@
               <div class="container">
               <div class="first-slide row" style="min-height:500px">
                   <div class="col-md-12 col-sm-12 col-xs-12 animated fadeInLeft">
-                    <h1 class="title"><img style="align:center" width="60%" src="assets/img/COMPASS_NoText_new.png"></h1> 
+                    <h1 class="title"><img width="60%" src="assets/img/COMPASS_NoText_new.png" alt="UCL COMPASS (Computational Security Science) logo"></h1> 
                   </div>
 
                   <div class="col-md-2 col-sm-2 col-xs-12"></div>
@@ -127,7 +131,7 @@
                   </div>
                   <div class="col-md-2 col-sm-2 col-xs-12"></div>
                   <div class="col-md-12 col-sm-12 col-xs-12 animated fadeInLeft-0-5">
-                    <h1 class="title"><img style="align:center" width="65%" src="assets/img/SMT.png" alt="SMT detection for cargo."></h1>
+                    <h1 class="title"><img style="align:center" width="65%" src="assets/img/SMT.png" alt="Small Metallic Threat (SMT) detection for cargo."></h1>
                   </div>
                   <div class="col-md-2 col-sm-2 col-xs-12"></div>
                   <div class="col-md-8 col-sm-8 col-xs-12 animated fadeInRight delay-0-5">
@@ -206,7 +210,7 @@
 
     <div class="col-lg-4 col-md-4 col-sm-4 col-xs-12">
     <div class="service-item">
-    <img class="img-circle" src="assets/img/LDG.png" height="100px">
+    <img class="img-circle" src="assets/img/LDG.png" height="100px" alt="Dr. Lewis Griffin (PI)">
     <h3><a href="http://iris.ucl.ac.uk/iris/browse/profile?upi=LDGRI51">Dr. Lewis Griffin</a></h3>
     <p>Group Leader | Principal Investigator</p>
     </div>
@@ -214,7 +218,7 @@
     
     <div class="col-lg-4 col-md-4 col-sm-4 col-xs-12">
     <div class="service-item">
-    <img class="img-circle" src="assets/img/NJ.jpg" alt="" height="100px">
+    <img class="img-circle" src="assets/img/NJ.jpg" height="100px" alt="Dr. Nicolas Jaccard (RA)">
     <h3><a href="http://iris.ucl.ac.uk/iris/browse/profile?upi=NJACC16">Dr. Nicolas Jaccard</a></h3>
     <p>Research Associate</p>
     </div>
@@ -231,7 +235,7 @@
 
     <div class="col-lg-4 col-md-4 col-sm-4 col-xs-12">
     <div class="service-item">
-    <img class="img-circle" src="assets/img/TWR.png" alt="" height="100px">
+    <img class="img-circle" src="assets/img/TWR.png" alt="Thomas W. Rogers (PhD student)" height="100px">
     <h3><a href="http://twrogers.work">Thomas Rogers</a></h3>
     <p>PhD Student</p>
     </div>
@@ -240,7 +244,7 @@
 
     <div class="col-lg-4 col-md-4 col-sm-4 col-xs-12">
     <div class="service-item">
-    <img class="img-circle" src="assets/img/JTA.png" alt="" height="100px">
+    <img class="img-circle" src="assets/img/JTA.png" alt="Jerone T. Andrews (PhD student)" height="100px">
     <h3><a href="https://www.ucl.ac.uk/secret/current_students/2013_cohort/2013-cohort-profiles/jerone-andrews">Jerone Andrews</a></h3>
     <p>PhD Student</p>
     </div>
@@ -476,11 +480,11 @@ $('#publications').bind('dynatable:init',function(e,dynatable){
 <!--     <h2 class="subtitle">Lorem Ipsum is simply dummy text</h2> -->
     <div class="wow fadeInDown row" align="center">
     <div class="col-lg-4 col-md-4 col-sm-4 col-xs-12">
-    <a href="http://www.uclb.com/"><img src="assets/img/UCLB_logo.gif" height="100px" alt="Rapiscan Systems" align="center"></a></div>
+    <a href="http://www.uclb.com/"><img src="assets/img/UCLB_logo.gif" height="100px" alt="UCL Business (UCLB) logo" align="center"></a></div>
     <div class="col-lg-4 col-md-4 col-sm-4 col-xs-12">
-    <a href="http://www.rapiscansystems.com/"><img src="assets/img/RapiscanSystems.jpg" height="100px" alt="Rapiscan Systems" align="center"></a></div>
+    <a href="http://www.rapiscansystems.com/"><img src="assets/img/RapiscanSystems.jpg" height="100px" alt="Rapiscan Systems logo" align="center"></a></div>
     <div class="col-lg-4 col-md-4 col-sm-4 col-xs-12">
-    <a href="https://www.epsrc.ac.uk/"><img src="assets/img/epsrc.jpg" height="100px" alt="EPSRC" align="center"></a></div>
+    <a href="https://www.epsrc.ac.uk/"><img src="assets/img/epsrc.jpg" height="100px" alt="EPSRC logo" align="center"></a></div>
 
     </div>
     </div>
@@ -536,7 +540,7 @@ $('#publications').bind('dynatable:init',function(e,dynatable){
     </p>
     </div>
     <div class="col-md-3">
-    <img src="assets/img/ucl-eng-logo.png">
+    <img src="assets/img/ucl-eng-logo.png" alt="UCL Engineering logo">
 
     </div>
 
