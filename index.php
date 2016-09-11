@@ -293,178 +293,89 @@ Filter by type of application:
     <tr>
       <td>2016</td>
       <td><a href="http://arxiv.org/abs/1606.08078">Detection of concealed cars in complex cargo X-ray imagery using deep learning</a></td>
-      <td>arXiv</td>
+      <td><a href="#" data-toggle="tooltip" data-placement="right" title="Submitted to Journal of X-ray Science and Technology">arXiv</td>
       <td>Nicolas Jaccard NJ, Thomas Rogers TWR, Edward Morton EJM, Lewis Griffin LDG</td>
       <td>Object Detection</td>
     </tr>
      <tr>
       <td>2016</td>
       <td><a href="http://arxiv.org/abs/1608.01017">Automated X-ray Image Analysis for Cargo Security: Critical Review and Future Promise</a></td>
-      <td>JXST (accepted)</td>
+      <td><a href="#" data-toggle="tooltip" data-placement="right" title="Journal of X-ray Science and Technology">JXST</a> (accepted)</td>
       <td>Thomas Rogers TWR, Nicolas Jaccard NJ, Lewis Griffin LDG</td>
       <td>Review Object Detection Anomaly Detection Image Pre-Processing</td>
     </tr>  
     <tr>
       <td>2016</td>
       <td><a href="http://arxiv.org/abs/1608.03847">Measuring and correcting wobble in large-scale transmission radiography</a></td>
-      <td>JXST (accepted)</td>
+      <td><a href="#" data-toggle="tooltip" data-placement="right" title="Journal of X-ray Science and Technology">JXST</a> (accepted)</td>
       <td>Thomas Rogers TWR, James Ollier JO, Edward Morton EJM, Lewis Griffin LDG</td>
       <td>Image Pre-Processing</td>
     </tr>
     <tr>
       <td>2016</td>
       <td><a href="http://imageanalysis.cs.ucl.ac.uk/documents/TIP_Carnahan_web.pdf">Threat Image Projection (TIP) into X-ray images of cargo containers for training humans and machines</a></td>
-      <td>IEEE ICCST</td>
+      <td><a href="#" data-toggle="tooltip" data-placement="right" title="IEEE International Carnahan Conference on Security Technology">IEEE ICCST</a></td>
       <td>Thomas Rogers TWR, Nicolas Jaccard NJ, Emmanouil Protonotarios EPD, James Ollier JO, Edward Morton EM, Lewis Griffin LDG</td>
       <td>Object Detection</td>
     </tr>
     <tr>
       <td>2016</td>
       <td><a href ="https://drive.google.com/file/d/0B8Dg3PBX90KNeFROU3BDT1ZhTXlSV3Rsb3JfVWNTWkpLTUhJ/view">Transfer Representation-Learning for Anomaly Detection</a></td>
-      <td>ICML</td>
+      <td><a href="#" data-toggle="tooltip" data-placement="right" title="International Conference on Machine Learning">ICML</a></td>
       <td>Jerone Andrews JTAA, Thomas Tanay TT, Edward Morton EJM, Lewis Griffin LDG</td>
       <td>Anomaly Detection</td>
     </tr>
     <tr>
       <td>2016</td>
       <td><a href ="http://imageanalysis.cs.ucl.ac.uk/documents/SPIE_DEFENSE_16_NJ_TWR_XRAY.pdf">Tackling the x-ray cargo inspection challenge using machine learning</a></td>
-      <td>SPIE D+S</td>
+      <td><a href="#" data-toggle="tooltip" data-placement="right" title="SPIE Defense + Security">SPIE D+S</a></td>
       <td>Nicolas Jaccard NJ, Thomas Rogers TWR, Edward Morton EJM, Lewis Griffin LDG</td>
       <td>Review Object Detection Image Pre-Processing</td>
     </tr>
     <tr>
       <td>2016</td>
       <td><a href ="http://www.ijmlc.org/vol6/565-L009.pdf">Detecting Anomalous Data Using Auto-Encoders</a></td>
-      <td>IJMLC</td>
+      <td><a href="#" data-toggle="tooltip" data-placement="right" title="International Journal of Machine Learning and Computing">IJMLC</a></td>
       <td>Jerone Andrews JTAA, Edward Morton WJM, Lewis Griffin LDG</td>
       <td>Anomaly Detection</td>
     </tr>
     <tr>
       <td>2015</td>
       <td><a href ="http://imageanalysis.cs.ucl.ac.uk/documents/NJaccard_DSDS.pdf">Using deep learning on X-ray images to detect threats</a></td>
-      <td>DSDS</td>
+      <td><a href="#" data-toggle="tooltip" data-placement="right" title="Cranfield University Defence and Security Doctoral Symposium">DSDS</a></td>
       <td>Nicolas Jaccard NJ, Thomas Rogers TWR, Edward Morton EJM, Lewis Griffin LDG</td>
       <td>Object Detection</td>
     </tr>
      <tr>
       <td>2015</td>
       <td><a href ="http://digital-library.theiet.org/content/conferences/10.1049/cp.2015.1762">Detection of cargo container loads from X-ray images</a></td>
-      <td>IET ICISP</td>
+      <td><a href="#" data-toggle="tooltip" data-placement="right" title="IET International Conference on Intelligent Signal Processing">IET ICISP</a></td>
       <td>Thomas Rogers TWR, Nicolas Jaccard NJ, Edward Morton EJM, Lewis Griffin LDG</td>
       <td>Object Detection</td>
     </tr>
          <tr>
       <td>2014</td>
       <td><a href ="https://www.cs.york.ac.uk/ftpdir/reports/2014/YCS/494/YCS-2014-494.pdf#page=39">Labelling images without classifiers</a></td>
-      <td>YDS</td>
+      <td><a href="#" data-toggle="tooltip" data-placement="right" title="York Doctoral Symposium">YDS</a></td>
       <td>Theodore Boyd TB, Lewis Griffin LDG</td>
       <td>Object Detection</td>
     </tr>  
              <tr>
       <td>2014</td>
       <td><a href ="http://ieeexplore.ieee.org/xpl/login.jsp?tp=&arnumber=6918699&url=http%3A%2F%2Fieeexplore.ieee.org%2Fxpls%2Fabs_all.jsp%3Farnumber%3D6918699">Automated detection of cars in transmission X-ray images of freight containers</a></td>
-      <td>IEEE AVSS</td>
+      <td><a href="#" data-toggle="tooltip" data-placement="right" title="IEEE Advanced Video and Signal-Based Surveillance">IEEE AVSS</a></td>
       <td>Nicolas Jaccard NJ, Thomas Rogers TWR, Lewis Griffin LDG</td>
       <td>Object Detection</td>
     </tr> 
                  <tr>
       <td>2014</td>
       <td><a href ="http://ieeexplore.ieee.org/xpl/login.jsp?tp=&arnumber=6958504&url=http%3A%2F%2Fieeexplore.ieee.org%2Fxpls%2Fabs_all.jsp%3Farnumber%3D6958504">Reduction of Wobble Artefacts in Images From Mobile Transmission X-ray Vehicle Scanners</a></td>
-      <td>IEEE ICIST</td>
+      <td><a href="#" data-toggle="tooltip" data-placement="right" title="IEEE International Conference on Imaging Systems and Techniques">IEEE ICIST</a></td>
       <td>Thomas Rogers TWR, James Ollier JO, Edward Morton EJM, Lewis Griffin LDG</td>
       <td>Image Pre-Processing</td>
     </tr>      
   </tbody>
 </table>
-
-
-
-<script>
-$('#publications').bind('dynatable:init',function(e,dynatable){
-    dynatable.queries.functions['type'] = function(record, queryValue) {
-      return record.type.indexOf(queryValue)>-1;
-    };
-  })
-  .dynatable({
-    features: {
-      paginate: false,
-      search: true,
-      recordCount: false,
-    },
-    dataset: {
-      ajax:false
-    },
-    inputs: {
-      queries: $('#type')
-    }
-  });
-</script>
- <!--    <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12">
-    <div class="portfolio-item wow fadeInLeft" data-wow-delay=".5s">
-    <a href="#"><img src="assets/img/portfolio/img1.jpg" alt=""></a>
-    <div class="overlay">
-    <div class="icons">
-    <a data-lightbox="image1" href="assets/img/portfolio/img1.jpg" class="preview"><i class="fa fa-search-plus fa-4x"></i></a>
-    </div>
-    </div>
-    </div>
-    </div>
-
-
-    <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12">
-    <div class="portfolio-item wow fadeInLeft" data-wow-delay=".7s">
-    <a href="#"><img src="assets/img/portfolio/img2.jpg" alt=""></a>
-    <div class="overlay">
-    <div class="icons">
-    <a data-lightbox="image1" href="assets/img/portfolio/img2.jpg" class="preview"><i class="fa fa-search-plus fa-4x"></i></a>
-    </div>
-    </div>
-    </div>
-    </div>
-
-    <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12">
-    <div class="portfolio-item wow fadeInLeft" data-wow-delay=".9s">
-    <a href="#"><img src="assets/img/portfolio/img3.jpg" alt=""></a>
-    <div class="overlay">
-    <div class="icons">
-    <a data-lightbox="image1" href="assets/img/portfolio/img3.jpg" class="preview"><i class="fa fa-search-plus fa-4x"></i></a>
-    </div>
-    </div>
-    </div>
-    </div>
-
-    <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12 wow fadeInRight" data-wow-delay="1.1s">
-    <div class="portfolio-item">
-    <a href="#"><img src="assets/img/portfolio/img4.jpg" alt=""></a>
-    <div class="overlay">
-    <div class="icons">
-    <a data-lightbox="image1" href="assets/img/portfolio/img4.jpg" class="preview"><i class="fa fa-search-plus fa-4x"></i></a>
-    </div>
-    </div>
-    </div>
-    </div>
-
-    <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12 wow fadeInRight" data-wow-delay="1.3s">
-    <div class="portfolio-item">
-    <a href="#"><img src="assets/img/portfolio/img5.jpg" alt=""></a>
-    <div class="overlay">
-    <div class="icons">
-    <a data-lightbox="image1" href="assets/img/portfolio/img5.jpg" class="preview"><i class="fa fa-search-plus fa-4x"></i></a>
-    </div>
-    </div>
-    </div>
-    </div>
-
-    <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12 wow fadeInRight" data-wow-delay="1.5s">
-    <div class="portfolio-item">
-    <a href="#"><img src="assets/img/portfolio/img6.jpg" alt=""></a>
-    <div class="overlay">
-    <div class="icons">
-    <a data-lightbox="image1" href="assets/img/portfolio/img6.jpg" class="preview"><i class="fa fa-search-plus fa-4x"></i></a>
-    </div>
-    </div>
-    </div>
-    </div> -->
       
     </div>
     </div>
@@ -491,31 +402,6 @@ $('#publications').bind('dynatable:init',function(e,dynatable){
     </div>
     </section>
 <!-- Client Section End -->
-
-
-
-<!-- About Section -->
-
-<!--     <section id="about">
-    <div class="container">
-    <div class="row">
-    <h1 class="title">About us</h1>
-    <h2 class="subtitle">Lorem Ipsum is simply dummy text</h2>
-
-    <div class="col-md-8 col-sm-12">
-    <p>
-    A wonderful serenity has taken possession of my entire soul, like these sweet mornings of spring which I enjoy with my whole heart. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla quam velit, vulputate eu pharetra nec, mattis ac neque. Duis vulputate commodo lectus, ac blandit elit. Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text. Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text. Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text.
-    </p>
-    </div>
-
-    <img class="col-md-4 col-md-4 col-sm-12 col-xs-12" src="assets/img/about/graph.png" alt="">
-
-    </div>
-    </div>
-    </section> -->
-<!-- About Section End -->
-
-
 
 <!-- Conatct Section -->
     <section id="contactUS">
@@ -573,8 +459,31 @@ $('#publications').bind('dynatable:init',function(e,dynatable){
 
         <!-- All JS plugin Triggers -->
         <script src="assets/js/main.js"></script>
-
-
+        <script>
+        $('#publications').bind('dynatable:init',function(e,dynatable){
+            dynatable.queries.functions['type'] = function(record, queryValue) {
+              return record.type.indexOf(queryValue)>-1;
+            };
+          })
+          .dynatable({
+            features: {
+              paginate: false,
+              search: true,
+              recordCount: false,
+            },
+            dataset: {
+              ajax:false
+            },
+            inputs: {
+              queries: $('#type')
+            }
+          });
+        </script>
+        <script>
+        $(document).ready(function(){
+            $('[data-toggle="tooltip"]').tooltip(); 
+        });
+        </script>
 
     </body>
     </html>
