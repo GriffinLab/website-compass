@@ -397,13 +397,16 @@ Filter by type of application:
     <h1 class="title">Partners and Funding</h1>
 <!--     <h2 class="subtitle">Lorem Ipsum is simply dummy text</h2> -->
     <div class="wow fadeInDown row" align="center">
-    <div class="col-lg-4 col-md-4 col-sm-4 col-xs-12">
-    <a href="http://www.uclb.com/"><img src="assets/img/UCLB_logo.gif" height="100px" alt="UCL Business (UCLB) logo" align="center"></a></div>
-    <div class="col-lg-4 col-md-4 col-sm-4 col-xs-12">
-    <a href="http://www.rapiscansystems.com/"><img src="assets/img/RapiscanSystems.jpg" height="100px" alt="Rapiscan Systems logo" align="center"></a></div>
-    <div class="col-lg-4 col-md-4 col-sm-4 col-xs-12">
-    <a href="https://www.epsrc.ac.uk/"><img src="assets/img/epsrc.jpg" height="100px" alt="EPSRC logo" align="center"></a></div>
-
+    <div class="col-lg-3 col-md-3 col-sm-3 col-xs-12">
+    <a href="http://www.uclb.com/"><img src="assets/img/UCLB_logo.gif" height="100px" alt="Rapiscan Systems" align="center"></a></div>
+    
+        <div class="col-lg-3 col-md-3 col-sm-3 col-xs-12">
+    <a href="https://www.epsrc.ac.uk/"><img src="assets/img/epsrc.jpg" height="100px" alt="EPSRC" align="center"></a></div>
+    
+        <div class="col-lg-3 col-md-3 col-sm-3 col-xs-12">
+    <a href="https://www.gov.uk/government/organisations/department-for-transport"><img src="assets/img/dft-logo.png" height="100px" alt="DfT" align="center"></a></div>
+    <div class="col-lg-3 col-md-3 col-sm-3 col-xs-12">
+    <a href="http://www.rapiscansystems.com/"><img src="assets/img/RapiscanSystems.jpg" height="100px" alt="Rapiscan Systems" align="center"></a></div>
     </div>
     </div>
     </div>
