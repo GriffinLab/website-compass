@@ -11,6 +11,3 @@ if(file_exists(__DIR__ . DS . 'site.php')) {
 } else {
   $kirby = kirby();
 }
-
-// render
-echo $kirby->launch();
