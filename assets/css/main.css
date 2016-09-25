@@ -122,6 +122,14 @@ a:hover {
   font-size: 28px;
   color: #e74c3c;
 }
+#news{
+  background: #f1f1f1;
+}
+#news h3 {
+  margin-top: 0;
+  font-size: 28px;
+  color: #e74c3c;
+}
 /*research*/
 #research {
   background: #f1f1f1;
