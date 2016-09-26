@@ -1,14 +1,3 @@
-//Contact Form
-
-$('#submit').click(function(){
-
-$.post("assets/php/send.php", $(".contact-form").serialize(),  function(response) {   
- $('#success').html(response);
-});
-return false;
-
-});
-
 jQuery(document).ready(function($){
 	var timelineBlocks = $('.cd-timeline-block'),
 		offset = 0.8;

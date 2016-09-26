@@ -38,7 +38,7 @@
 
         <!--Icon Fonts-->
         <link rel="stylesheet" media="screen" href="assets/fonts/font-awesome/font-awesome.min.css" />
-
+        <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
 
         <!-- Extras -->
         <link rel="stylesheet" type="text/css" href="assets/extras/animate.css">
@@ -47,14 +47,15 @@
         <!-- jQuery Load -->
         <script src="assets/js/jquery-min.js"></script>
         <script type='text/javascript' src='js/dynatable/jquery.dynatable.js'></script>
-
-
+        <script src="assets/js/modernizr.js"></script> <!-- Modernizr -->
+        <script src="assets/js/main.js"></script> <!-- Resource jQuery -->
         <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
         
         <!--[if lt IE 9]>
           <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
           <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
         <![endif]-->
+
 
                 <style>
 
@@ -104,7 +105,8 @@
 
         <div class="collapse navbar-collapse" id="navbar">
                             <ul class="nav navbar-nav col-md-9 pull-right">
-                            <li class="active"><a href="#hero-area"><i class="fa fa-home"></i> Home</a></li>
+                            <li class="active"><a href="#hero-area"><i class="fa fa-home" aria-hidden="true"></i> Home</a></li>
+                            <li><a href="#newsTitle"><i class="fa fa-newspaper-o"></i> News</a></li>
                             <li><a href="#theTeam"><i class="fa fa-puzzle-piece"></i> Team</a></li>
                             <li><a href="#research"><i class="fa fa-flask"></i> Research</a></li>
                             <li><a href="#contactUS"><i class="fa fa-envelope"></i> Contact</a></li>
@@ -222,42 +224,54 @@
 </div>
 </section>
 
+
+
+ 
+
+
 <!-- Service Section -->
 
-<section id="news">
-<div class="container text-center">
-
+<section id="newsTitle">
+<div class="container">
+<div class="row">
 <h1 class="title">News</h1>
 <h2 class="subtitle">What's been going on @ COMPASS</h2>
-    <div class="row">
 
-    <?php $newsItems = page('blog')->children()->visible()->flip()->paginate(3) ?>
+<div id="news">
 
-<?php foreach($newsItems as $news): ?>
+<?php $newsItems = page('blog')->children()->visible()->flip()->paginate(20) ?>
+  <?php foreach($newsItems as $news): ?>
+       <div class="news-block">
+      <div class="news-img cd-picture">
+      <img src="assets/img/COMPASS_icon_grey.png">
+      </div> <!-- cd-timeline-img -->
 
-  <h5 style="font-weight:bold margin-bottom:0px"><?php echo  $news->date('d-m-Y') ?></h5> 
-  <h3><?php echo $news->title()->html() ?></h3>
-  <p><?php echo $news->Text()->kirbytext() ?></p> 
-  <?php endforeach ?>
-
+      <div class="news-content">
+        <h3><?php echo $news->title()->html() ?></h3>
+        <h4><?php echo $news->Text()->kirbytext() ?></h4>
+        <h2><span class="cd-date" style="font-size:16px"><?php echo  $news->date('d-m-Y') ?></span></h2>
+      </div> <!-- cd-timeline-content -->
+    </div> <!-- cd-timeline-block -->
+      <?php endforeach ?>
+    
 <?php if($newsItems->pagination()->hasPages()): ?>
 <nav class="pagination">
 
   <?php if($newsItems->pagination()->hasNextPage()): ?>
-  <a class="next" href="<?php echo $newsItems->pagination()->nextPageURL() ?>">&lsaquo; older posts</a>
+  <a class="next" href="<?php echo $newsItems->pagination()->nextPageURL() ?>#news"><i class="material-icons">arrow_back</i></a>
   <?php endif ?>
 
   <?php if($newsItems->pagination()->hasPrevPage()): ?>
-  <a class="prev" href="<?php echo $newsItems->pagination()->prevPageURL() ?>">newer posts &rsaquo;</a>
+  <a class="prev" href="<?php echo $newsItems->pagination()->prevPageURL() ?>#news"><i class="material-icons">arrow_forward</i></a>
   <?php endif ?>
 
 </nav>
 <?php endif ?>
 
-
-
 </div>
- </section>
+</div>
+</div>
+</section>
 <!-- Service Section End -->
 
 <!-- Hero Area Section End-->
