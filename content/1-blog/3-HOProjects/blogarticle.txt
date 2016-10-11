@@ -1,0 +1,6 @@
+Title: New projects on Automated Threat Detection (ATD) for the Home Office
+----
+Date:11.10.2016
+----
+Text: COMPASS will be working on two new projects: "Deep Learning for firearms ATD" and "Anomaly Detection for firearms ATD". The work will be funded by the Home Office OSCT. More information soon! 
+----

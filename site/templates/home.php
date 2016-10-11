@@ -109,6 +109,7 @@
                             <li><a href="#newsTitle"><i class="fa fa-newspaper-o"></i> News</a></li>
                             <li><a href="#theTeam"><i class="fa fa-puzzle-piece"></i> Team</a></li>
                             <li><a href="#research"><i class="fa fa-flask"></i> Research</a></li>
+                            <li><a href="#clients"><i class="fa fa-users"></i> Partners</a></li>
                             <li><a href="#contactUS"><i class="fa fa-envelope"></i> Contact</a></li>
                             </ul>
         </div>
@@ -472,25 +473,32 @@ Filter by type of application:
 
 
 <!-- Client Section -->
-    <section id="clients">
+<section id="clients">
     <div class="container">
     <div class="row" style="align:center">
     <h1 class="title">Partners and Funding</h1>
 <!--     <h2 class="subtitle">Lorem Ipsum is simply dummy text</h2> -->
       <div class="wow fadeInDown row" align="center">
-    <div class="col-lg-3 col-md-3 col-sm-3 col-xs-12">
+    <div class="col-lg-4 col-md-4 col-sm-4 col-xs-12">
     <a href="http://www.uclb.com/"><img src="assets/img/UCLB_logo.gif" height="100px" alt="Rapiscan Systems" align="center"></a></div>
     
-        <div class="col-lg-3 col-md-3 col-sm-3 col-xs-12">
+        <div class="col-lg-4 col-md-4 col-sm-4 col-xs-12">
     <a href="https://www.epsrc.ac.uk/"><img src="assets/img/epsrc.jpg" height="100px" alt="EPSRC" align="center"></a></div>
     
-        <div class="col-lg-3 col-md-3 col-sm-3 col-xs-12">
+    <div class="col-lg-4 col-md-4 col-sm-4 col-xs-12">
+    <a href="https://www.gov.uk/government/organisations/home-office"><img src="assets/img/Home_Office.png" height="100px" alt="Home Office" align="center"></a></div></div>
+
+    <div class="wow fadeInDown row" align="center">
+<div class="col-lg-2 col-md-2 col-sm-2 col-xs-12"></div>
+        <div class="col-lg-4 col-md-4 col-sm-4 col-xs-12">
     <a href="https://www.gov.uk/government/organisations/department-for-transport"><img src="assets/img/dft-logo.png" height="100px" alt="DfT" align="center"></a></div>
-    <div class="col-lg-3 col-md-3 col-sm-3 col-xs-12">
+    <div class="col-lg-4 col-md-4 col-sm-4 col-xs-12">
     <a href="http://www.rapiscansystems.com/"><img src="assets/img/RapiscanSystems.jpg" height="100px" alt="Rapiscan Systems" align="center"></a></div>
+    <div class="col-lg-2 col-md-2 col-sm-2 col-xs-12"></div>
     </div>
     </div>
     </div>
+    </section>
     </section>
 <!-- Client Section End -->
 
