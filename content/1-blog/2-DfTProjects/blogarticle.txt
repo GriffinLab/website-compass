@@ -2,5 +2,5 @@ Title: New projects for the Department for Transport
 ----
 Date:26.09.2016
 ----
-Text: COMPASS will be working on two projects for the UK's Department for Transport: "Anomaly Detection for Aviation Securtiy" and "Virtual Inspection Environment for Aviation Security". More information soon! 
+Text: COMPASS will be working on two projects for the UK's Department for Transport: "Anomaly Detection for Aviation Security" and "Virtual Inspection Environment for Aviation Security". More information soon! 
 ----
