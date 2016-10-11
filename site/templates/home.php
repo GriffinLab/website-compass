@@ -375,14 +375,14 @@ Filter by type of application:
     <tr>
       <td>2016</td>
       <td><a href="http://arxiv.org/abs/1609.02805">Automated detection of smuggled high-risk security threats using Deep Learning</a></td>
-      <td><a href="#research" data-toggle="tooltip" data-placement="right" title="Submitted to Imaging for Crime Detection and Prevention 2016">arXiv</td>
+      <td><a href="#research" data-toggle="tooltip" data-placement="right" title="Submitted to Imaging for Crime Detection and Prevention 2016">arXiv</a> (accepted)</td>
       <td>Nicolas Jaccard NJ, Thomas Rogers TWR, Edward Morton EJM, Lewis Griffin LDG</td>
       <td>Object Detection</td>
     </tr>
     <tr>
       <td>2016</td>
       <td><a href="http://arxiv.org/abs/1606.08078">Detection of concealed cars in complex cargo X-ray imagery using deep learning</a></td>
-      <td><a href="#research" data-toggle="tooltip" data-placement="right" title="Submitted to Journal of X-ray Science and Technology">arXiv</td>
+      <td><a href="#research" data-toggle="tooltip" data-placement="right" title="Submitted to Journal of X-ray Science and Technology">arXiv</a></td>
       <td>Nicolas Jaccard NJ, Thomas Rogers TWR, Edward Morton EJM, Lewis Griffin LDG</td>
       <td>Object Detection</td>
     </tr>
