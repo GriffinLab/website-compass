@@ -444,15 +444,15 @@ Filter by type of application:
     </tr>
      <tr>
       <td>2016</td>
-      <td><a href="http://arxiv.org/abs/1608.01017">Automated X-ray Image Analysis for Cargo Security: Critical Review and Future Promise</a></td>
-      <td><a href="#research" data-toggle="tooltip" data-placement="right" title="Journal of X-ray Science and Technology">JXST</a> (accepted)</td>
+      <td><a href="http://content.iospress.com/articles/journal-of-x-ray-science-and-technology/xst606">Automated X-ray Image Analysis for Cargo Security: Critical Review and Future Promise</a></td>
+      <td><a href="#research" data-toggle="tooltip" data-placement="right" title="Journal of X-ray Science and Technology">JXST</a></td>
       <td>Thomas Rogers TWR, Nicolas Jaccard NJ, Lewis Griffin LDG</td>
       <td>Review Object Detection Anomaly Detection Image Pre-Processing</td>
     </tr>  
     <tr>
       <td>2016</td>
-      <td><a href="http://arxiv.org/abs/1608.03847">Measuring and correcting wobble in large-scale transmission radiography</a></td>
-      <td><a href="#research" data-toggle="tooltip" data-placement="right" title="Journal of X-ray Science and Technology">JXST</a> (accepted)</td>
+      <td><a href="http://content.iospress.com/articles/journal-of-x-ray-science-and-technology/xst607">Measuring and correcting wobble in large-scale transmission radiography</a></td>
+      <td><a href="#research" data-toggle="tooltip" data-placement="right" title="Journal of X-ray Science and Technology">JXST</a></td>
       <td>Thomas Rogers TWR, James Ollier JO, Edward Morton EJM, Lewis Griffin LDG</td>
       <td>Image Pre-Processing</td>
     </tr>
