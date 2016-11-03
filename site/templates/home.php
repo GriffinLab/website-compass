@@ -328,7 +328,7 @@
     <div class="col-lg-4 col-md-4 col-sm-4 col-xs-12">
     <div class="service-item">
     <img class="img-circle" src="assets/img/JTA.png" alt="Jerone T. Andrews (PhD student)" height="100px">
-    <h3><a href="https://www.ucl.ac.uk/secret/current_students/2013_cohort/2013-cohort-profiles/jerone-andrews">Jerone Andrews</a></h3>
+    <h3><a href="http://www0.cs.ucl.ac.uk/people/Jerone.Andrews.html">Jerone Andrews</a></h3>
     <p>PhD Student</p>
     </div>
     </div>
@@ -428,6 +428,13 @@ Filter by type of application:
     </tr>
   </thead>
   <tbody>
+      <tr>
+      <td>2016</td>
+      <td><a href="http://imageanalysis.cs.ucl.ac.uk/documents/JAndrews_DSDS.pdf">Anomaly Detection for Security Imaging</a></td>
+      <td><a href="#research" data-toggle="tooltip" data-placement="right" title="Cranfield University Defence and Security Doctoral Symposium">DSDS</a></td>
+      <td>Jerone Andrews JTAA, Nicolas Jaccard NJ, Thomas Rogers TWR, Thomas Tanay TT, Lewis Griffin LDG</td>
+      <td>Object Detection</td>
+    </tr>
     <tr>
       <td>2016</td>
       <td><a href="http://arxiv.org/abs/1609.02805">Automated detection of smuggled high-risk security threats using Deep Learning</a></td>
@@ -465,7 +472,7 @@ Filter by type of application:
     </tr>
     <tr>
       <td>2016</td>
-      <td><a href ="https://drive.google.com/file/d/0B8Dg3PBX90KNeFROU3BDT1ZhTXlSV3Rsb3JfVWNTWkpLTUhJ/view">Transfer Representation-Learning for Anomaly Detection</a></td>
+      <td><a href ="http://imageanalysis.cs.ucl.ac.uk/documents/JAndrews-ADWorkshop-ICML.pdf">Transfer Representation-Learning for Anomaly Detection</a></td>
       <td><a href="#research" data-toggle="tooltip" data-placement="right" title="International Conference on Machine Learning">ICML</a></td>
       <td>Jerone Andrews JTAA, Thomas Tanay TT, Edward Morton EJM, Lewis Griffin LDG</td>
       <td>Anomaly Detection</td>
