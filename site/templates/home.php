@@ -108,7 +108,8 @@
                             <li class="active"><a href="#hero-area"><i class="fa fa-home" aria-hidden="true"></i> Home</a></li>
                             <li><a href="#newsTitle"><i class="fa fa-newspaper-o"></i> News</a></li>
                             <li><a href="#theTeam"><i class="fa fa-puzzle-piece"></i> Team</a></li>
-                            <li><a href="#research"><i class="fa fa-flask"></i> Research</a></li>
+                            <li><a href="#projects"><i class="fa fa-flask"></i> Projects</a></li>
+                            <li><a href="#research"><i class="fa fa-clone"></i> Publications</a></li>
                             <li><a href="#clients"><i class="fa fa-users"></i> Partners</a></li>
                             <li><a href="#contactUS"><i class="fa fa-envelope"></i> Contact</a></li>
                             </ul>
@@ -140,12 +141,12 @@
               <div class="container">
               <div class="first-slide row" style="min-height:500px">
                   <div class="col-md-12 col-sm-12 col-xs-12 animated fadeInLeft">
-                    <h1 class="title"><img width="60%" src="assets/img/COMPASS_NoText_new.png" alt="UCL COMPASS (Computational Security Science) logo"></h1> 
+                    <h1 class="title"><img width="50%" src="assets/img/COMPASS_NoText_new.png" alt="UCL COMPASS (Computational Security Science) logo"></h1> 
                   </div>
 
                   <div class="col-md-2 col-sm-2 col-xs-12"></div>
                   <div class="col-md-8 col-sm-8 col-xs-12 animated fadeInRight delay-0-5">
-                    <h4 style="text-align:justify">Computational Security Science (COMPASS) is a research group in UCL's Computer Science Department developing state-of-the-art computational methods for the exploitation of security imagery. We work with a range of academic, industrial, and governmental partners to produce a step-change in detection capabilities.</h4>
+                    <h4 style="text-align:justify">Computational Security Science (COMPASS) is a research group in UCL's Computer Science Department developing state-of-the-art computational methods for the security domain. We work with a range of academic, industrial, and governmental partners to produce a step-change in automated capabilities.</h4>
                   </div>
                   <div class="col-md-2 col-sm-2 col-xs-12"></div>
                 </div>
@@ -281,7 +282,7 @@
 
 <section id="theTeam">
 <div class="container text-center">
-<div class="row">
+<div class="row" >
 <h1 class="title">The team</h1>
 <h2 class="subtitle">Meet the members of the COMPASS team</h2>
     <div class="row">
@@ -304,10 +305,11 @@
     <p>Research Associate</p>
     </div>
     </div>
-    </div>
     
     <div class="col-lg-2 col-md-2 col-sm-2 col-xs-12">
     </div>
+        </div>
+
 
     <div class="row">
 
@@ -340,15 +342,69 @@
  </section>
 <!-- Service Section End -->
 
+<!-- Research projects section -->
+        
+    <section id="projects">
+    <div class="container">
+    <div class="row">
+        <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+            <h1 class="title">Research Projects</h1>
+            <h2 class="subtitle">Projects that COMPASS are currently working on</h2> 
+       </div>
+        </div>
+        <div class="row" style="margin: 0; padding: 0;">
+        <div class="col-lg-1 col-md-1 col-sm-1 col-xs-12"></div>
+        <div class="col-lg-10 col-md-10 col-sm-10 col-xs-12">
+        <div class="panel panel-default">
+            
+  <div class="panel-heading text-center">
+    <h3><a>Anomaly Detection in x-ray images</a></h3>
+  </div>
+  <div class="panel-body text-justify">
+    Security staff inspect x-ray images by: threat detection, where they look for particular items (e.g. knives, detonators); and anomaly detection, where they look for deviations from normal. This project will automate anomaly detection, for which there are no current systems. For firearms, anomaly detection is particularly important for ISO containers and vehicles, where the fabric of the container or vehicle provides opportunities for concealment. Firearms so concealed may not be visible as such, hence not detectable by threat detection methods, but may still be noticed by security staff who spot a darkening out of place (e.g. in the roof of an ISO container) or a shape not quite right (e.g. the engine block of a car). The system we develop for anomaly detection, like experienced security staff, will 'know' what is normal so that it can spot such deviations.
+  </div>
+                </div>
+</div>
+        <div class="col-lg-1 col-md-1 col-sm-1 col-xs-12"></div>
+        </div>
+        <div class="row" style="margin: 0; padding: 0;">
+        <div class="col-lg-1 col-md-1 col-sm-1 col-xs-12"></div>
+        <div class="col-lg-10 col-md-10 col-sm-10 col-xs-12">
+        <div class="panel panel-default">
+  <div class="panel-heading text-center">
+      <h3><a>Threat Detection in x-ray images</a></h3>
+  </div>
+  <div class="panel-body text-justify">
+    This project will develop firearm detection algorithms using the most recent methods of Computer Vision. Specifically, we will use Convolutional Neural Networks (CNNs), with parameters Deep Learnt from training images. CNNs approximate the action and connections of neurons in the human brain. ‘Deep’ because of the many layers of the network of artificial neurons that they employ. ‘Learning’ because only the broad architecture of the network is engineered, its detailed parameters being learnt by exposing it to relevant images. Across the two phases of the project, we will develop: a single algorithm for detection of firearms in x-ray images; with performance validated as being at least at human-level; applicable to images from scanners of any modality and manufacturer, after a one-off automated tuning process for operation on a new scanner type, requiring only a sample dataset of benign images.
+  </div>
+</div>
+            </div>
+        <div class="col-lg-1 col-md-1 col-sm-1 col-xs-12"></div>
+        </div>
+            <div class="row" style="margin: 0; padding: 0;">
+                
+        <div class="col-lg-1 col-md-1 col-sm-1 col-xs-12"></div>
+        <div class="col-lg-10 col-md-10 col-sm-10 col-xs-12">
+        <div class="panel panel-default">
+  <div class="panel-heading text-center">
+      <h3><a>Anomaly Detection for Aviation Security</a></h3>
+  </div>
+  <div class="panel-body text-justify">
+    Since 9/11 commercial flights have been attacked by groups with political aims. Their strategic aim is to provoke fear, leading to pressure for political change. Reactive security measures, which visibly guard against a repeat attack, achieve the purpose of the attack since they constantly remind of the existence of the adversaries, who are confirmed as national enemies, not mere criminals. Understanding this, the terrorists readily vary their tactics. Each variation provokes a new measure layered on top of existing measures. The apparent potency of the adversaries is hugely magnified: we walk unshod, and have strangers touch our `junk' and taste our children's food. To exit this cycle a novel approach is needed that has the capability to detect the next attack, not the previous; and to do so invisibly, so that fear is not further magnified. In this project, we will apply the latest Computer Science to automate Anomaly Detection (noticing the suspicious or unusual), as used by experienced, trained security staff.  Deep Learning algorithms, that mimic the operation of the human brain, makes this feasible: they recognize faces better than humans. If automated Anomaly Detection at human-levels of performance can be achieved, then computers calculating out of sight, can pore over every luggage and baggage scan and every airport CCTV feed, as if a thousand trained, experienced, unflagging security staff were constantly employed in every airport looking for oddities and passing them up to security staff when found.
+  </div>
+</div>
+            </div>
+        <div class="col-lg-1 col-md-1 col-sm-1 col-xs-12"></div>
+        </div>
 
-
-
+        </div></section>
+<!-- Project Section End -->
 <!-- Portfolio Section -->
 
     <section id="research">
     <div class="container">
     <div class="row">
-    <h1 class="title">Our Research</h1>
+    <h1 class="title">Publications</h1>
     <h2 class="subtitle">Selection of recent COMPASS research output</h2>
 
 <div id="search-function-example-price-filter" style="float: left; margin-bottom: 1em;">
