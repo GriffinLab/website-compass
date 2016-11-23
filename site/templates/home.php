@@ -146,7 +146,7 @@
 
                   <div class="col-md-2 col-sm-2 col-xs-12"></div>
                   <div class="col-md-8 col-sm-8 col-xs-12 animated fadeInRight delay-0-5">
-                    <h4 style="text-align:justify">Computational Security Science (COMPASS) is a research group in UCL's Computer Science Department developing state-of-the-art computational methods for the security domain. We work with a range of academic, industrial, and governmental partners to produce a step-change in automated capabilities.</h4>
+                    <h4 style="text-align:justify">Computational Security Science (COMPASS), a research group in UCL's Computer Science Department developing state-of-the-art methods for the domain. We work with a range of academic, industrial, and governmental partners to produce a step-change in automated capabilities.</h4>
                   </div>
                   <div class="col-md-2 col-sm-2 col-xs-12"></div>
                 </div>
@@ -438,14 +438,14 @@ Filter by type of application:
     <tr>
       <td>2016</td>
       <td><a href="http://arxiv.org/abs/1609.02805">Automated detection of smuggled high-risk security threats using Deep Learning</a></td>
-      <td><a href="#research" data-toggle="tooltip" data-placement="right" title="Submitted to Imaging for Crime Detection and Prevention 2016">arXiv</a> (accepted)</td>
+      <td><a href="#research" data-toggle="tooltip" data-placement="right" title="Accepted at Imaging for Crime Detection and Prevention 2016">arXiv</a> (accepted)</td>
       <td>Nicolas Jaccard NJ, Thomas Rogers TWR, Edward Morton EJM, Lewis Griffin LDG</td>
       <td>Object Detection</td>
     </tr>
     <tr>
       <td>2016</td>
       <td><a href="http://arxiv.org/abs/1606.08078">Detection of concealed cars in complex cargo X-ray imagery using deep learning</a></td>
-      <td><a href="#research" data-toggle="tooltip" data-placement="right" title="Submitted to Journal of X-ray Science and Technology">arXiv</a></td>
+      <td><a href="#research" data-toggle="tooltip" data-placement="right" title="Accepted at Journal of X-ray Science and Technology">arXiv</a> (accepted)</td>
       <td>Nicolas Jaccard NJ, Thomas Rogers TWR, Edward Morton EJM, Lewis Griffin LDG</td>
       <td>Object Detection</td>
     </tr>
