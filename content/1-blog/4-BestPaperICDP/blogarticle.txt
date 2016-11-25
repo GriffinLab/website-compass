@@ -1,0 +1,6 @@
+Title: Best paper prize at ICDP!
+----
+Date:25.11.2016
+----
+Text: COMPASS has been awarded the best paper prize at the 7th International Conference on Crime Detection and Prevention in Madrid. The paper, entitled "Automated detection of smuggled high-risk security threats using Deep Learning", was presented by Dr Nicolas Jaccard. See our publications below for access to an arXiv pre-print.
+----
