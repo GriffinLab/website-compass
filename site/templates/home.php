@@ -396,6 +396,22 @@
             </div>
         <div class="col-lg-1 col-md-1 col-sm-1 col-xs-12"></div>
         </div>
+        
+                    <div class="row" style="margin: 0; padding: 0;">
+                
+        <div class="col-lg-1 col-md-1 col-sm-1 col-xs-12"></div>
+        <div class="col-lg-10 col-md-10 col-sm-10 col-xs-12">
+        <div class="panel panel-default">
+  <div class="panel-heading text-center">
+      <h3><a>Magnetic Induction Tomography</a></h3>
+  </div>
+  <div class="panel-body text-justify">
+    In 2013 the Renzoni lab at UCL demonstrated, for the first time, the possibility of imaging using atomic magnetometers in the Magnetic Induction Tomography modality. This opened up a new realm for electromagnetic imaging, given the extreme sensitivity of atomic magnetometers at low frequency. Electromagnetic imaging has potential in many security domains where x-rays are not applicable, such as universal fast parcel screening. COMPASS is working with the Renzoni lab, applying machine learning methods to produce tomographic images from magnetometer measurements that depend non-linearly on the scene. The Machine Learning approach provides an alternative to the standard Inverse Problem approach requiring many Finite Element simulations to produce each image. By shifting the computational burden onto a training stage, we permit fast enough inversion to be applicable in security applications with high throughput.
+  </div>
+</div>
+            </div>
+        <div class="col-lg-1 col-md-1 col-sm-1 col-xs-12"></div>
+        </div>
 
         </div></section>
 <!-- Project Section End -->
@@ -438,14 +454,14 @@ Filter by type of application:
     <tr>
       <td>2016</td>
       <td><a href="http://arxiv.org/abs/1609.02805">Automated detection of smuggled high-risk security threats using Deep Learning</a></td>
-      <td><a href="#research" data-toggle="tooltip" data-placement="right" title="Accepted at Imaging for Crime Detection and Prevention 2016">arXiv</a> (accepted)</td>
+      <td><a href="#research" data-toggle="tooltip" data-placement="right" title="Accepted at Imaging for Crime Detection and Prevention 2016">ICDP</a> (accepted)</td>
       <td>Nicolas Jaccard NJ, Thomas Rogers TWR, Edward Morton EJM, Lewis Griffin LDG</td>
       <td>Object Detection</td>
     </tr>
     <tr>
       <td>2016</td>
       <td><a href="http://arxiv.org/abs/1606.08078">Detection of concealed cars in complex cargo X-ray imagery using deep learning</a></td>
-      <td><a href="#research" data-toggle="tooltip" data-placement="right" title="Accepted at Journal of X-ray Science and Technology">arXiv</a> (accepted)</td>
+      <td><a href="#research" data-toggle="tooltip" data-placement="right" title="Journal of X-ray Science and Technology">JXST</a> (accepted)</td>
       <td>Nicolas Jaccard NJ, Thomas Rogers TWR, Edward Morton EJM, Lewis Griffin LDG</td>
       <td>Object Detection</td>
     </tr>
