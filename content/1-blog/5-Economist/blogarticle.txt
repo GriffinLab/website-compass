@@ -1,0 +1,7 @@
+Title: Economist article on our research!
+----
+Date:02.12.2016
+----
+Text: The Economist, in a recent (link: http://www.economist.com/news/science-and-technology/21711016-artificial-intelligence-moves-security-scanning-machines-are-learning-find text: "article") and (link: http://www.economist.com/news/science-and-technology/21711000-week-how-optical-navigation-can-help-bomb-find-its-target-without-gps text: “podcast”), have covered our research.
+----
+
