@@ -444,12 +444,26 @@ Filter by type of application:
     </tr>
   </thead>
   <tbody>
+  <tr>
+      <td>2017</td>
+      <td>Representation-learning for anomaly detection in complex x-ray cargo imagery</td>
+      <td><a href="#research" data-toggle="tooltip" data-placement="right" title="Accepted at SPIE Defense + Security">SPIE D+S</a> (accepted)</td>
+      <td>Jerone Andrews JTAA, Nicolas Jaccard NJ, Thomas Rogers TWR, Thomas Tanay TT, Lewis Griffin LDG</td>
+      <td>Anomaly Detection</td>
+      </tr>
+    <tr>
+      <td>2017</td>
+      <td>A deep learning framework for the automated inspection of complex dual-energy x-ray cargo imagery</td>
+      <td><a href="#research" data-toggle="tooltip" data-placement="right" title="Accepted at SPIE Defense + Security">SPIE D+S</a> (accepted)</td>
+      <td>Thomas Rogers TWR, Nicolas Jaccard NJ, Edward Morton EJM, Lewis Griffin LDG</td>
+      <td>Object Detection</td>
+    </tr>
       <tr>
       <td>2016</td>
       <td><a href="http://imageanalysis.cs.ucl.ac.uk/documents/JAndrews_DSDS.pdf">Anomaly Detection for Security Imaging</a></td>
       <td><a href="#research" data-toggle="tooltip" data-placement="right" title="Cranfield University Defence and Security Doctoral Symposium">DSDS</a></td>
       <td>Jerone Andrews JTAA, Nicolas Jaccard NJ, Thomas Rogers TWR, Thomas Tanay TT, Lewis Griffin LDG</td>
-      <td>Object Detection</td>
+      <td>Anomaly Detection</td>
     </tr>
     <tr>
       <td>2016</td>
