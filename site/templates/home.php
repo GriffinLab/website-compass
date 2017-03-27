@@ -513,7 +513,7 @@ Filter by type of application:
     </tr>
     <tr>
       <td>2016</td>
-      <td><a href="http://imageanalysis.cs.ucl.ac.uk/documents/TIP_Carnahan_web.pdf">Threat Image Projection (TIP) into X-ray images of cargo containers for training humans and machines</a></td>
+      <td><a href="https://doi.org/10.1109/CCST.2016.7815717">Threat Image Projection (TIP) into X-ray images of cargo containers for training humans and machines</a></td>
       <td><a href="#research" data-toggle="tooltip" data-placement="right" title="IEEE International Carnahan Conference on Security Technology">IEEE ICCST</a></td>
       <td>Thomas Rogers TWR, Nicolas Jaccard NJ, Emmanouil Protonotarios EPD, James Ollier JO, Edward Morton EM, Lewis Griffin LDG</td>
       <td>Object Detection</td>
