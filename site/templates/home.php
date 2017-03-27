@@ -283,7 +283,7 @@
 <section id="theTeam">
 <div class="container text-center">
 <div class="row" >
-<h1 class="title">The team</h1>
+<h1 class="title">The Team</h1>
 <h2 class="subtitle">Meet the members of the COMPASS team</h2>
     <div class="row">
 
@@ -337,6 +337,7 @@
     </div>
 
     </div>
+<h2 class="subtitle">Former Members</h2>
 
     <div class="row">
 
