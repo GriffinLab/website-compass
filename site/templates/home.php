@@ -347,7 +347,7 @@
     <div class="col-lg-8 col-md-8 col-sm-8 col-xs-12">
     <div class="service-item">
     <img class="img-circle" src="assets/img/NJ.jpg" height="100px" alt="Dr. Nicolas Jaccard (RA)">
-    <h3><a href="http://iris.ucl.ac.uk/iris/browse/profile?upi=NJACC16">Dr. Nicolas Jaccard</a></h3>
+    <h3><a href="http://nicjac.net/">Dr. Nicolas Jaccard</a></h3>
     <p>Former Research Associate</p>
     </div>
     </div>
