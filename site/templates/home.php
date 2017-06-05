@@ -297,13 +297,15 @@
     <p>Group Leader | Principal Investigator</p>
     </div>
     </div>
+    
     <div class="col-lg-4 col-md-4 col-sm-4 col-xs-12">
     <div class="service-item">
-    <img class="img-circle" src="assets/img/TWR.png" alt="Thomas W. Rogers (PhD student)" height="100px">
-    <h3><a href="http://twrogers.work">Thomas Rogers</a></h3>
-    <p>PhD Student</p>
+    <img class="img-circle" src="assets/img/MC.jpg" height="100px" alt="Dr. Matthew Caldwell (RA)">
+    <h3><a href="http://www.ucl.ac.uk/~ucbpmbc/">Dr. Matthew Caldwell</a></h3>
+    <p>Research Associate</p>
     </div>
     </div>
+    
     
     
     <div class="col-lg-2 col-md-2 col-sm-2 col-xs-12">
@@ -318,17 +320,16 @@
 
     <div class="col-lg-4 col-md-4 col-sm-4 col-xs-12">
     <div class="service-item">
-    <img class="img-circle" src="assets/img/MC.jpg" height="100px" alt="Dr. Matthew Caldwell (RA)">
-    <h3><a href="http://www.ucl.ac.uk/~ucbpmbc/">Dr. Matthew Caldwell</a></h3>
-    <p>Research Associate</p>
-    </div>
-    </div>
-
-
-    <div class="col-lg-4 col-md-4 col-sm-4 col-xs-12">
-    <div class="service-item">
     <img class="img-circle" src="assets/img/JTA.png" alt="Jerone T. Andrews (PhD student)" height="100px">
     <h3><a href="http://www0.cs.ucl.ac.uk/people/Jerone.Andrews.html">Jerone Andrews</a></h3>
+    <p>PhD Student</p>
+    </div>
+    </div>
+    
+     <div class="col-lg-4 col-md-4 col-sm-4 col-xs-12">
+    <div class="service-item">
+    <img class="img-circle" src="assets/img/MCR.jpg" alt="Mark Ransley (PhD student)" height="100px">
+    <h3><a href="http://www.markransley.net">Mark Ransley</a></h3>
     <p>PhD Student</p>
     </div>
     </div>
@@ -344,11 +345,19 @@
     <div class="col-lg-2 col-md-2 col-sm-2 col-xs-12">
     </div>
 
-    <div class="col-lg-8 col-md-8 col-sm-8 col-xs-12">
+    <div class="col-lg-4 col-md-4 col-sm-4 col-xs-12">
     <div class="service-item">
     <img class="img-circle" src="assets/img/NJ.jpg" height="100px" alt="Dr. Nicolas Jaccard (RA)">
     <h3><a href="http://nicjac.net/">Dr. Nicolas Jaccard</a></h3>
     <p>Former Research Associate</p>
+    </div>
+    </div>
+    
+    <div class="col-lg-4 col-md-4 col-sm-4 col-xs-12">
+    <div class="service-item">
+    <img class="img-circle" src="assets/img/TWR.png" alt="Thomas W. Rogers (PhD student)" height="100px">
+    <h3><a href="http://twrogers.work">Thomas Rogers</a></h3>
+    <p>Former PhD Student</p>
     </div>
     </div>
 
