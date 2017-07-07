@@ -614,7 +614,7 @@ Filter by type of application:
         <div class="col-lg-4 col-md-4 col-sm-4 col-xs-12">
     <a href="https://www.gov.uk/government/organisations/department-for-transport"><img src="assets/img/dft-logo.png" height="100px" alt="DfT" align="center"></a></div>
     <div class="col-lg-4 col-md-4 col-sm-4 col-xs-12">
-    <a href="http://www.rapiscansystems.com/"><img src="assets/img/RapiscanSystems.jpg" height="100px" alt="Rapiscan Systems" align="center"></a></div>
+    <a href="https://www.gov.uk/government/organisations/defence-and-security-accelerator"><img src="assets/img/Defense_and_security_accelerator.png" height="100px" alt="Defense and Security Accelerator" align="center"></a></div>
     <div class="col-lg-2 col-md-2 col-sm-2 col-xs-12"></div>
     </div>
     </div>
