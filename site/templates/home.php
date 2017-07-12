@@ -479,12 +479,26 @@ Filter by type of application:
       <td>Jerone Andrews JTAA, Nicolas Jaccard NJ, Thomas Rogers TWR, Thomas Tanay TT, Lewis Griffin LDG</td>
       <td>Anomaly Detection</td>
       </tr>
+	<tr>
+      <td>2017</td>
+      <td>L2 Regularization and the Adversarial Distance</td>
+      <td><a href="#research" data-toggle="tooltip" data-placement="right" title="International Conference on Machine Learning">ICML</a> (accepted)</td>
+      <td>Jerone Andrews JTAA, Nicolas Jaccard NJ, Thomas Rogers TWR, Thomas Tanay TT, Lewis Griffin LDG</td>
+      <td>Anomaly Detection</td>
+      </tr>
     <tr>
       <td>2017</td>
       <td><a href="http://imageanalysis.cs.ucl.ac.uk/documents/TWR_SPIE2017.pdf">A deep learning framework for the automated inspection of complex dual-energy x-ray cargo imagery</a></td>
       <td><a href="#research" data-toggle="tooltip" data-placement="right" title="Accepted at SPIE Defense + Security">SPIE D+S</a> (accepted)</td>
       <td>Thomas Rogers TWR, Nicolas Jaccard NJ, Edward Morton EJM, Lewis Griffin LDG</td>
       <td>Object Detection</td>
+    </tr>
+    <tr>
+      <td>2016</td>
+      <td><a href="https://arxiv.org/abs/1608.07690">A boundary tilting persepective on the phenomenon of adversarial examples</a></td>
+      <td><a href="#research" data-toggle="tooltip" data-placement="right" title="https://arxiv.org/">arXiv</a> </td>
+      <td>Thomas Tanay TT, Lewis Griffin LDG</td>
+      <td>Adversarial </td>
     </tr>
       <tr>
       <td>2016</td>
