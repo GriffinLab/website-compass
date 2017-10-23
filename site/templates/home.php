@@ -477,7 +477,7 @@ Filter by type of application:
       <td><a href="http://imageanalysis.cs.ucl.ac.uk/documents/MC_SPIE2017.pdf">Transferring x-ray based automated threat detection between scanners with different energies and resolution</a></td>
       <td><a href="#research" data-toggle="tooltip" data-placement="right" title="SPIE Defense + Security">SPIE D+S</a></td>
       <td>Matthew Caldwell MC, Mark Ransley MR, Thomas Rogers TWR, Lewis Griffin LDG</td>
-      <td>Anomaly Detection</td>
+      <td>Object Detection</td>
     </tr>
     <tr>
       <td>2017</td>
