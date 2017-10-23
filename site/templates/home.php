@@ -472,30 +472,37 @@ Filter by type of application:
     </tr>
   </thead>
   <tbody>
-  <tr>
+    <tr>
+      <td>2017</td>
+      <td><a href="http://imageanalysis.cs.ucl.ac.uk/documents/MC_SPIE2017.pdf">Transferring x-ray based automated threat detection between scanners with different energies and resolution</a></td>
+      <td><a href="#research" data-toggle="tooltip" data-placement="right" title="SPIE Defense + Security">SPIE D+S</a></td>
+      <td>Matthew Caldwell MC, Mark Ransley MR, Thomas Rogers TWR, Lewis Griffin LDG</td>
+      <td>Anomaly Detection</td>
+    </tr>
+    <tr>
       <td>2017</td>
       <td><a href="http://imageanalysis.cs.ucl.ac.uk/documents/JTAA_SPIE2017.pdf">Representation-learning for anomaly detection in complex x-ray cargo imagery</a></td>
-      <td><a href="#research" data-toggle="tooltip" data-placement="right" title="Accepted at SPIE Defense + Security">SPIE D+S</a> (accepted)</td>
+      <td><a href="#research" data-toggle="tooltip" data-placement="right" title="SPIE Defense + Security">SPIE D+S</a></td>
       <td>Jerone Andrews JTAA, Nicolas Jaccard NJ, Thomas Rogers TWR, Thomas Tanay TT, Lewis Griffin LDG</td>
       <td>Anomaly Detection</td>
-      </tr>
+    </tr>
 	<tr>
       <td>2017</td>
       <td>L2 Regularization and the Adversarial Distance</td>
-      <td><a href="#research" data-toggle="tooltip" data-placement="right" title="International Conference on Machine Learning">ICML</a> (accepted)</td>
+      <td><a href="#research" data-toggle="tooltip" data-placement="right" title="International Conference on Machine Learning">ICML</a></td>
       <td>Jerone Andrews JTAA, Nicolas Jaccard NJ, Thomas Rogers TWR, Thomas Tanay TT, Lewis Griffin LDG</td>
       <td>Anomaly Detection</td>
-      </tr>
+    </tr>
     <tr>
       <td>2017</td>
       <td><a href="http://imageanalysis.cs.ucl.ac.uk/documents/TWR_SPIE2017.pdf">A deep learning framework for the automated inspection of complex dual-energy x-ray cargo imagery</a></td>
-      <td><a href="#research" data-toggle="tooltip" data-placement="right" title="Accepted at SPIE Defense + Security">SPIE D+S</a> (accepted)</td>
+      <td><a href="#research" data-toggle="tooltip" data-placement="right" title="SPIE Defense + Security">SPIE D+S</a></td>
       <td>Thomas Rogers TWR, Nicolas Jaccard NJ, Edward Morton EJM, Lewis Griffin LDG</td>
       <td>Object Detection</td>
     </tr>
     <tr>
       <td>2016</td>
-      <td><a href="https://arxiv.org/abs/1608.07690">A boundary tilting persepective on the phenomenon of adversarial examples</a></td>
+      <td><a href="https://arxiv.org/abs/1608.07690">A boundary tilting perspective on the phenomenon of adversarial examples</a></td>
       <td><a href="#research" data-toggle="tooltip" data-placement="right" title="https://arxiv.org/">arXiv</a> </td>
       <td>Thomas Tanay TT, Lewis Griffin LDG</td>
       <td>Adversarial </td>
@@ -510,7 +517,7 @@ Filter by type of application:
     <tr>
       <td>2016</td>
       <td><a href="http://arxiv.org/abs/1609.02805">Automated detection of smuggled high-risk security threats using Deep Learning</a></td>
-      <td><a href="#research" data-toggle="tooltip" data-placement="right" title="Accepted at Imaging for Crime Detection and Prevention 2016">ICDP</a> (accepted)</td>
+      <td><a href="#research" data-toggle="tooltip" data-placement="right" title="Imaging for Crime Detection and Prevention 2016">ICDP</a></td>
       <td>Nicolas Jaccard NJ, Thomas Rogers TWR, Edward Morton EJM, Lewis Griffin LDG</td>
       <td>Object Detection</td>
     </tr>
