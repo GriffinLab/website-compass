@@ -363,6 +363,13 @@
 
     <div class="col-lg-2 col-md-2 col-sm-2 col-xs-12">
     </div>
+    
+    </div>
+    
+    <div class="row">
+    
+    <div class="col-lg-2 col-md-2 col-sm-2 col-xs-12">
+    </div>
 
     <div class="col-lg-4 col-md-4 col-sm-4 col-xs-12">
     <div class="service-item">
@@ -370,6 +377,9 @@
     <h3><a href="http://www.markransley.net">Mark Ransley</a></h3>
     <p>Former PhD Student</p>
     </div>
+    </div>
+
+    <div class="col-lg-2 col-md-2 col-sm-2 col-xs-12">
     </div>
 
     <div class="col-lg-2 col-md-2 col-sm-2 col-xs-12">
