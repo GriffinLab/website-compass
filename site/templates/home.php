@@ -326,10 +326,10 @@
     </div>
     </div>
     
-     <div class="col-lg-4 col-md-4 col-sm-4 col-xs-12">
+    <div class="col-lg-4 col-md-4 col-sm-4 col-xs-12">
     <div class="service-item">
-    <img class="img-circle" src="assets/img/MCR.jpg" alt="Mark Ransley (PhD student)" height="100px">
-    <h3><a href="http://www.markransley.net">Mark Ransley</a></h3>
+    <img class="img-circle" src="assets/img/TT.jpg" alt="Thomas Tanay (PhD student)" height="100px">
+    <h3><!-- <a href="http://www.markransley.net">-->Thomas Tanay<!--</a>--></h3>
     <p>PhD Student</p>
     </div>
     </div>
@@ -357,6 +357,14 @@
     <div class="service-item">
     <img class="img-circle" src="assets/img/TWR.png" alt="Thomas W. Rogers (PhD student)" height="100px">
     <h3><a href="http://twrogers.work">Thomas Rogers</a></h3>
+    <p>Former PhD Student</p>
+    </div>
+    </div>
+
+    <div class="col-lg-4 col-md-4 col-sm-4 col-xs-12">
+    <div class="service-item">
+    <img class="img-circle" src="assets/img/MCR.jpg" alt="Mark Ransley (PhD student)" height="100px">
+    <h3><a href="http://www.markransley.net">Mark Ransley</a></h3>
     <p>Former PhD Student</p>
     </div>
     </div>
