@@ -361,6 +361,9 @@
     </div>
     </div>
 
+    <div class="col-lg-2 col-md-2 col-sm-2 col-xs-12">
+    </div>
+
     <div class="col-lg-4 col-md-4 col-sm-4 col-xs-12">
     <div class="service-item">
     <img class="img-circle" src="assets/img/MCR.jpg" alt="Mark Ransley (PhD student)" height="100px">
