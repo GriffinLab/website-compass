@@ -480,6 +480,7 @@ Filter by type of application:
   <option>Anomaly Detection</option>
   <option>Image Pre-Processing</option>
   <option>Review</option>
+  <option>Electromagnetic Imaging</option>
 </select>
 </div>
 <table id="publications" class="table table-bordered" style="-webkit-border-radius: 4px; -moz-border-radius: 4px; border-radius: 4px;">
@@ -493,6 +494,13 @@ Filter by type of application:
     </tr>
   </thead>
   <tbody>
+    <tr>
+      <td>2018</td>
+      <td><a href="https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.120.033204">Machine Learning Based Localization and Classification with Atomic Magnetometers</a></td>
+      <td><a href="#research" data-toggle="tooltip" data-placement="right" title="Physical Review Letters">PRL</a></td>
+      <td>Cameron Deans CD, Lewis Griffin LDG, Luca Marmugi LM, Ferruccio Renzoni FR</td>
+      <td>Electromagnetic Imaging</td>
+    </tr>
     <tr>
       <td>2017</td>
       <td><a href="http://imageanalysis.cs.ucl.ac.uk/documents/MC_SPIE2017.pdf">Transferring x-ray based automated threat detection between scanners with different energies and resolution</a></td>
@@ -598,28 +606,28 @@ Filter by type of application:
       <td>Nicolas Jaccard NJ, Thomas Rogers TWR, Edward Morton EJM, Lewis Griffin LDG</td>
       <td>Object Detection</td>
     </tr>
-     <tr>
+    <tr>
       <td>2015</td>
       <td><a href ="http://digital-library.theiet.org/content/conferences/10.1049/cp.2015.1762">Detection of cargo container loads from X-ray images</a></td>
       <td><a href="#research" data-toggle="tooltip" data-placement="right" title="IET International Conference on Intelligent Signal Processing">IET ICISP</a></td>
       <td>Thomas Rogers TWR, Nicolas Jaccard NJ, Edward Morton EJM, Lewis Griffin LDG</td>
       <td>Object Detection</td>
     </tr>
-         <tr>
+    <tr>
       <td>2014</td>
       <td><a href ="https://www.cs.york.ac.uk/ftpdir/reports/2014/YCS/494/YCS-2014-494.pdf#page=39">Labelling images without classifiers</a></td>
       <td><a href="#research" data-toggle="tooltip" data-placement="right" title="York Doctoral Symposium">YDS</a></td>
       <td>Theodore Boyd TB, Lewis Griffin LDG</td>
       <td>Object Detection</td>
     </tr>  
-             <tr>
+    <tr>
       <td>2014</td>
       <td><a href ="http://ieeexplore.ieee.org/xpl/login.jsp?tp=&arnumber=6918699&url=http%3A%2F%2Fieeexplore.ieee.org%2Fxpls%2Fabs_all.jsp%3Farnumber%3D6918699">Automated detection of cars in transmission X-ray images of freight containers</a></td>
       <td><a href="#research" data-toggle="tooltip" data-placement="right" title="IEEE Advanced Video and Signal-Based Surveillance">IEEE AVSS</a></td>
       <td>Nicolas Jaccard NJ, Thomas Rogers TWR, Lewis Griffin LDG</td>
       <td>Object Detection</td>
     </tr> 
-                 <tr>
+    <tr>
       <td>2014</td>
       <td><a href ="http://ieeexplore.ieee.org/xpl/login.jsp?tp=&arnumber=6958504&url=http%3A%2F%2Fieeexplore.ieee.org%2Fxpls%2Fabs_all.jsp%3Farnumber%3D6958504">Reduction of Wobble Artefacts in Images From Mobile Transmission X-ray Vehicle Scanners</a></td>
       <td><a href="#research" data-toggle="tooltip" data-placement="right" title="IEEE International Conference on Imaging Systems and Techniques">IEEE ICIST</a></td>
