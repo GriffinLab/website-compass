@@ -2,5 +2,5 @@ Title: Invited Talk at ADSA18
 ----
 Date:24.03.2018
 ----
-Text: Dr Lewis Griffin to give invited talk at 18th workshop on Advanced Development for Security Applications (ADSA18)
+Text: Dr Lewis Griffin will give an invited talk at the 18th workshop on Advanced Development for Security Applications (ADSA18).
 ----
