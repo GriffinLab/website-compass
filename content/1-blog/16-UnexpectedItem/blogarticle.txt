@@ -2,5 +2,5 @@ Title: Unexpected item in the bagging area
 ----
 Date:16.11.2018
 ----
-Text: Our new Anomaly Detection paper for IEEE Transactions on Information Forensics and Security is now online: (link: https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8537982 text Unexpected item in the bagging area)
+Text: Our new Anomaly Detection paper for IEEE Transactions on Information Forensics and Security is now online: (link: https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8537982 text: "Unexpected item in the bagging area").
 ----
