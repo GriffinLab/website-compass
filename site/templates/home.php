@@ -496,6 +496,13 @@ Filter by type of application:
   <tbody>
     <tr>
       <td>2018</td>
+      <td><a href="https://doi.org/10.1109/TIFS.2018.2881700">Unexpected item in the bagging area: Anomaly Detection in X-ray Security Images</a></td>
+      <td><a href="#research" data-toggle="tooltip" data-placement="right" title="IEEE Transactions on Information Forensics and Security">TIFS</a></td>
+      <td>Lewis Griffin LDG, Matthew Caldwell MC, Jerone Andrews JTAA, Helene Bohler HB</td>
+      <td>Anomaly Detection</td>
+    </tr>
+    <tr>
+      <td>2018</td>
       <td><a href="https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.120.033204">Machine Learning Based Localization and Classification with Atomic Magnetometers</a></td>
       <td><a href="#research" data-toggle="tooltip" data-placement="right" title="Physical Review Letters">PRL</a></td>
       <td>Cameron Deans CD, Lewis Griffin LDG, Luca Marmugi LM, Ferruccio Renzoni FR</td>
