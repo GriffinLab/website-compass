@@ -495,6 +495,13 @@ Filter by type of application:
   </thead>
   <tbody>
     <tr>
+      <td>2019</td>
+      <td><a href="https://arxiv.org/abs/1906.08507">Multiple-Identity Image Attacks Against Face-based Identity Verification</a></td>
+      <td><a href="#research" data-toggle="tooltip" data-placement="right" title="https://arxiv.org/">arXiv</a></td>
+      <td>Jerone Andrews JTAA, Thomas Tanay TT, Lewis Griffin LDG</td>
+      <td>Face Morphing Data Poisoning</td>
+    </tr>
+    <tr>
       <td>2018</td>
       <td><a href="https://doi.org/10.1109/TIFS.2018.2881700">Unexpected item in the bagging area: Anomaly Detection in X-ray Security Images</a></td>
       <td><a href="#research" data-toggle="tooltip" data-placement="right" title="IEEE Transactions on Information Forensics and Security">TIFS</a></td>

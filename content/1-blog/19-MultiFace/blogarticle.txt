@@ -1,0 +1,6 @@
+Title: Multiple-Identity Image Attacks Against Face-based Identity Verification
+----
+Date:01.07.2019
+----
+Text: Our new paper on Multiple Identity Images is now available online: (link: https://arxiv.org/abs/1906.08507 text: "Multiple-Identity Image Attacks Against Face-based Identity Verification")
+----
