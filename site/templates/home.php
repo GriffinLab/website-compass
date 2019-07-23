@@ -292,8 +292,8 @@
 
     <div class="col-lg-4 col-md-4 col-sm-4 col-xs-12">
     <div class="service-item">
-    <img class="img-circle" src="assets/img/LDG.png" height="100px" alt="Dr. Lewis Griffin (PI)">
-    <h3><a href="http://iris.ucl.ac.uk/iris/browse/profile?upi=LDGRI51">Dr. Lewis Griffin</a></h3>
+    <img class="img-circle" src="assets/img/LDG.png" height="100px" alt="Prof. Lewis Griffin (PI)">
+    <h3><a href="http://iris.ucl.ac.uk/iris/browse/profile?upi=LDGRI51">Prof. Lewis Griffin</a></h3>
     <p>Group Leader | Principal Investigator</p>
     </div>
     </div>
@@ -320,18 +320,13 @@
 
     <div class="col-lg-4 col-md-4 col-sm-4 col-xs-12">
     <div class="service-item">
-    <img class="img-circle" src="assets/img/JTA.png" alt="Jerone T. Andrews (PhD student)" height="100px">
-    <h3><a href="http://www0.cs.ucl.ac.uk/people/Jerone.Andrews.html">Jerone Andrews</a></h3>
-    <p>PhD Student</p>
+    <img class="img-circle" src="assets/img/JTA.png" alt="Dr. Jerone T. Andrews (RA)" height="100px">
+    <h3><a href="http://www0.cs.ucl.ac.uk/people/Jerone.Andrews.html">Dr. Jerone Andrews</a></h3>
+    <p>Research Associate</p>
     </div>
     </div>
     
     <div class="col-lg-4 col-md-4 col-sm-4 col-xs-12">
-    <div class="service-item">
-    <img class="img-circle" src="assets/img/TT.jpg" alt="Thomas Tanay (PhD student)" height="100px">
-    <h3><a href="https://www.researchgate.net/profile/Thomas_Tanay">Thomas Tanay</a></h3>
-    <p>PhD Student</p>
-    </div>
     </div>
 
     <div class="col-lg-2 col-md-2 col-sm-2 col-xs-12">
@@ -347,7 +342,7 @@
 
     <div class="col-lg-4 col-md-4 col-sm-4 col-xs-12">
     <div class="service-item">
-    <img class="img-circle" src="assets/img/NJ.jpg" height="100px" alt="Dr. Nicolas Jaccard (RA)">
+    <img class="img-circle" src="assets/img/NJ.jpg" height="100px" alt="Dr. Nicolas Jaccard (Former RA)">
     <h3><a href="http://nicjac.net/">Dr. Nicolas Jaccard</a></h3>
     <p>Former Research Associate</p>
     </div>
@@ -355,7 +350,7 @@
     
     <div class="col-lg-4 col-md-4 col-sm-4 col-xs-12">
     <div class="service-item">
-    <img class="img-circle" src="assets/img/TWR.png" alt="Thomas W. Rogers (PhD student)" height="100px">
+    <img class="img-circle" src="assets/img/TWR.png" alt="Dr. Thomas W. Rogers (Former PhD student)" height="100px">
     <h3><a href="http://twrogers.work">Dr. Thomas Rogers</a></h3>
     <p>Former PhD Student</p>
     </div>
@@ -373,13 +368,18 @@
 
     <div class="col-lg-4 col-md-4 col-sm-4 col-xs-12">
     <div class="service-item">
-    <img class="img-circle" src="assets/img/MCR.jpg" alt="Mark Ransley (PhD student)" height="100px">
+    <img class="img-circle" src="assets/img/MCR.jpg" alt="Mark Ransley (Former PhD Researcher)" height="100px">
     <h3><a href="http://www.markransley.net">Mark Ransley</a></h3>
     <p>Former PhD Researcher</p>
     </div>
     </div>
 
     <div class="col-lg-2 col-md-2 col-sm-2 col-xs-12">
+    <div class="service-item">
+    <img class="img-circle" src="assets/img/TT.jpg" alt="Dr. Thomas Tanay (Former PhD student)" height="100px">
+    <h3><a href="https://www.researchgate.net/profile/Thomas_Tanay">Dr. Thomas Tanay</a></h3>
+    <p>Former PhD Student</p>
+    </div>
     </div>
 
     <div class="col-lg-2 col-md-2 col-sm-2 col-xs-12">
