@@ -287,7 +287,7 @@
 <h2 class="subtitle">Meet the members of the COMPASS team</h2>
     <div class="row">
 
-    <div class="col-lg-2 col-md-2 col-sm-2 col-xs-12">
+    <div class="col-lg-4 col-md-4 col-sm-4 col-xs-12">
     </div>
 
     <div class="col-lg-4 col-md-4 col-sm-4 col-xs-12">
@@ -299,23 +299,21 @@
     </div>
     
     <div class="col-lg-4 col-md-4 col-sm-4 col-xs-12">
+    </div>
+    </div>
+
+    <div class="row">
+
+    <div class="col-lg-2 col-md-2 col-sm-2 col-xs-12">
+    </div>
+
+
+    <div class="col-lg-4 col-md-4 col-sm-4 col-xs-12">
     <div class="service-item">
     <img class="img-circle" src="assets/img/MC.jpg" height="100px" alt="Dr. Matthew Caldwell (RA)">
     <h3><a href="http://www.ucl.ac.uk/~ucbpmbc/">Dr. Matthew Caldwell</a></h3>
     <p>Research Associate</p>
     </div>
-    </div>
-    
-    
-    
-    <div class="col-lg-2 col-md-2 col-sm-2 col-xs-12">
-    </div>
-        </div>
-
-
-    <div class="row">
-
-    <div class="col-lg-2 col-md-2 col-sm-2 col-xs-12">
     </div>
 
     <div class="col-lg-4 col-md-4 col-sm-4 col-xs-12">
@@ -325,6 +323,16 @@
     <p>Research Associate</p>
     </div>
     </div>
+
+    <div class="col-lg-2 col-md-2 col-sm-2 col-xs-12">
+    </div>
+    </div>
+
+    <div class="row">
+
+    <div class="col-lg-2 col-md-2 col-sm-2 col-xs-12">
+    </div>
+
     
     <div class="col-lg-4 col-md-4 col-sm-4 col-xs-12">
     <div class="service-item">
@@ -334,10 +342,19 @@
     </div>
     </div>
 
+    <div class="col-lg-4 col-md-4 col-sm-4 col-xs-12">
+    <div class="service-item">
+    <img class="img-circle" src="assets/img/KT.jpg" alt="Kimberly Tran (PhD Student)" height="100px">
+    <h3><a href="https://ktmai.github.io/">Kimberly Tran</a></h3>
+    <p>PhD Student</p>
+    </div>
+    </div>
+
     <div class="col-lg-2 col-md-2 col-sm-2 col-xs-12">
     </div>
 
     </div>
+
 <h2 class="subtitle">Former Members</h2>
 
     <div class="row">
