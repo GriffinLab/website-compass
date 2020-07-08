@@ -525,6 +525,13 @@ Filter by type of application:
     </tr>
     <tr>
       <td>2019</td>
+      <td><a href="https://discovery.ucl.ac.uk/id/eprint/10090239/1/paper.pdf">Limits on transfer learning from photographic image data to X-ray threat detection</a></td>
+      <td><a href="#research" data-toggle="tooltip" data-placement="right" title="https://content.iospress.com/articles/journal-of-x-ray-science-and-technology/xst190545">Journal of X-ray Science and Technology</a></td>
+      <td>Matthew Caldwell MC, Lewis Griffin LDG</td>
+      <td>Transfer Learning Object Detection</td>
+    </tr>
+    <tr>
+      <td>2019</td>
       <td><a href="https://arxiv.org/abs/1906.08507">Multiple-Identity Image Attacks Against Face-based Identity Verification</a></td>
       <td><a href="#research" data-toggle="tooltip" data-placement="right" title="https://arxiv.org/">arXiv</a></td>
       <td>Jerone Andrews JTAA, Thomas Tanay TT, Lewis Griffin LDG</td>

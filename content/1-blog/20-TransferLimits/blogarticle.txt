@@ -1,0 +1,6 @@
+Title: Limits on Transfer Learning
+----
+Date:02.01.2020
+----
+Text: Our new paper (link: https://discovery.ucl.ac.uk/id/eprint/10090239/1/paper.pdf text: "Limits on transfer learning from photographic image data to X-ray threat detection") has been published in the (link: https://content.iospress.com/articles/journal-of-x-ray-science-and-technology/xst190545 text: Journal of X-ray Science and Technology)
+----
