@@ -2,5 +2,5 @@ Title: AI-enabled Future Crime
 ----
 Date:30.06.2020
 ----
-Text: Our paper on (link: http://imageanalysis.cs.ucl.ac.uk/documents/AI-enabled_crime_preprint.pdf text: "AI-enabled Future Crime") has been accepted and is in press at (link: https://crimesciencejournal.biomedcentral.com text: "Crime Science")
+Text: Our paper on (link: http://imageanalysis.cs.ucl.ac.uk/documents/AI-enabled_crime_preprint.pdf text: AI-enabled Future Crime) has been accepted and is in press at (link: https://crimesciencejournal.biomedcentral.com text: Crime Science)
 ----
