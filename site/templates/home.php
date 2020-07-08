@@ -517,6 +517,13 @@ Filter by type of application:
   </thead>
   <tbody>
     <tr>
+      <td>2020</td>
+      <td><a href="http://imageanalysis.cs.ucl.ac.uk/documents/AI-enabled_crime_preprint.pdf">AI-enabled Future Crime</a></td>
+      <td><a href="#research" data-toggle="tooltip" data-placement="right" title="https://crimesciencejournal.biomedcentral.com">Crime Science</a></td>
+      <td>Matthew Caldwell MC, Jerone Andrews JTAA, Thomas Tanay TT, Lewis Griffin LDG</td>
+      <td>Review Future Crime</td>
+    </tr>
+    <tr>
       <td>2019</td>
       <td><a href="https://arxiv.org/abs/1906.08507">Multiple-Identity Image Attacks Against Face-based Identity Verification</a></td>
       <td><a href="#research" data-toggle="tooltip" data-placement="right" title="https://arxiv.org/">arXiv</a></td>
