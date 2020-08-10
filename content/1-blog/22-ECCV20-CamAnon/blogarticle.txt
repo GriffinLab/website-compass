@@ -1,0 +1,6 @@
+Title: Adversarial Camera Model Anonymization
+----
+Date:10.08.2020
+----
+Text: Our new paper on Conditional Adversarial Camera Model Anonymization has been accepted at ECCV 2020 (Advances in Image Manipulation workshop)
+----
