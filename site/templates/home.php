@@ -518,6 +518,13 @@ Filter by type of application:
   <tbody>
     <tr>
       <td>2020</td>
+      <td><a href="https://link.springer.com/chapter/10.1007/978-3-030-66823-5_13">Conditional Adversarial Camera Model Anonymization</a></td>
+      <td><a href="#research" data-toggle="tooltip" data-placement="right">ECCV</a></td>
+      <td>Jerone Andrews JTAA, Yidan Zhang YZ, Lewis Griffin LDG</td>
+      <td>Object Detection</td>
+    </tr>
+    <tr>
+      <td>2020</td>
       <td><a href="http://imageanalysis.cs.ucl.ac.uk/documents/AI-enabled_crime_preprint.pdf">AI-enabled Future Crime</a></td>
       <td><a href="#research" data-toggle="tooltip" data-placement="right" title="https://crimesciencejournal.biomedcentral.com">Crime Science</a></td>
       <td>Matthew Caldwell MC, Jerone Andrews JTAA, Thomas Tanay TT, Lewis Griffin LDG</td>
