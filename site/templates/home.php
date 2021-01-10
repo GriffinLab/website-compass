@@ -498,6 +498,7 @@
 Filter by type of application: 
 <select id="type">
   <option></option>
+  <option>Adversarial Machine Learning</option>
   <option>Object Detection</option>
   <option>Anomaly Detection</option>
   <option>Image Pre-Processing</option>
@@ -521,7 +522,7 @@ Filter by type of application:
       <td><a href="https://link.springer.com/chapter/10.1007/978-3-030-66823-5_13">Conditional Adversarial Camera Model Anonymization</a></td>
       <td><a href="#research" data-toggle="tooltip" data-placement="right">ECCV</a></td>
       <td>Jerone Andrews JTAA, Yidan Zhang YZ, Lewis Griffin LDG</td>
-      <td>Object Detection</td>
+      <td>Object Detection Adversarial Machine Learning</td>
     </tr>
     <tr>
       <td>2020</td>
@@ -542,7 +543,7 @@ Filter by type of application:
       <td><a href="https://arxiv.org/abs/1906.08507">Multiple-Identity Image Attacks Against Face-based Identity Verification</a></td>
       <td><a href="#research" data-toggle="tooltip" data-placement="right" title="https://arxiv.org/">arXiv</a></td>
       <td>Jerone Andrews JTAA, Thomas Tanay TT, Lewis Griffin LDG</td>
-      <td>Face Morphing Data Poisoning</td>
+      <td>Face Morphing Data Poisoning Adversarial Machine Learning</td>
     </tr>
     <tr>
       <td>2018</td>
@@ -577,7 +578,7 @@ Filter by type of application:
       <td>L2 Regularization and the Adversarial Distance</td>
       <td><a href="#research" data-toggle="tooltip" data-placement="right" title="International Conference on Machine Learning">ICML</a></td>
       <td>Jerone Andrews JTAA, Nicolas Jaccard NJ, Thomas Rogers TWR, Thomas Tanay TT, Lewis Griffin LDG</td>
-      <td>Anomaly Detection</td>
+      <td>Anomaly Detection Adversarial Machine Learning</td>
     </tr>
     <tr>
       <td>2017</td>
@@ -591,7 +592,7 @@ Filter by type of application:
       <td><a href="https://arxiv.org/abs/1608.07690">A boundary tilting perspective on the phenomenon of adversarial examples</a></td>
       <td><a href="#research" data-toggle="tooltip" data-placement="right" title="https://arxiv.org/">arXiv</a> </td>
       <td>Thomas Tanay TT, Lewis Griffin LDG</td>
-      <td>Adversarial </td>
+      <td>Adversarial Machine Learning</td>
     </tr>
       <tr>
       <td>2016</td>
