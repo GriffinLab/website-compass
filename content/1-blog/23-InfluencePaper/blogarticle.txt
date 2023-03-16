@@ -1,0 +1,6 @@
+Title: Susceptibility to Influence of Large Language Models
+----
+Date:10.03.2023
+----
+Text: Our new pre-print paper on (link: https://arxiv.org/abs/2303.06074 text: Susceptibility to Influence of Large Language Models) is now available on arXiv.
+----

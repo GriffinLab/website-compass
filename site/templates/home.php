@@ -498,6 +498,8 @@
 Filter by type of application: 
 <select id="type">
   <option></option>
+  <option>Language Models</option>
+  <option>Deepfakes</option>
   <option>Adversarial Machine Learning</option>
   <option>Object Detection</option>
   <option>Anomaly Detection</option>
@@ -517,6 +519,20 @@ Filter by type of application:
     </tr>
   </thead>
   <tbody>
+    <tr>
+      <td>2023</td>
+      <td><a href="https://arxiv.org/abs/2303.06074">Susceptibility to Influence of Large Language Models</a></td>
+      <td><a href="#research" data-toggle="tooltip" data-placement="right" title="https://arxiv.org/">arXiv</a></td>
+      <td>Lewis Griffin LDG, Bennett Kleinberg BK, Maximilian Mozes MM, Kimberly Mai KTM, Maria Vau MV, Matthew Caldwell MC, Augustine Marvor-Parker AMP</td>
+      <td>Language Models</td>
+    </tr>
+    <tr>
+      <td>2023</td>
+      <td><a href="https://arxiv.org/abs/2301.07829">Warning: Humans Cannot Reliably Detect Speech Deepfakes</a></td>
+      <td><a href="#research" data-toggle="tooltip" data-placement="right" title="https://arxiv.org/">arXiv</a></td>
+      <td>Kimberly Mai KTM, Sergi Bray SDB, Toby Davies TD, Lewis Griffin LDG</td>
+      <td>Deepfakes Speech Audio</td>
+    </tr>
     <tr>
       <td>2020</td>
       <td><a href="https://link.springer.com/chapter/10.1007/978-3-030-66823-5_13">Conditional Adversarial Camera Model Anonymization</a></td>
