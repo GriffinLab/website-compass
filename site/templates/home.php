@@ -338,7 +338,7 @@
     <div class="service-item">
     <img class="img-circle" src="assets/img/MC.jpg" height="100px" alt="Dr. Matthew Caldwell (RA)">
     <h3><a href="http://www.ucl.ac.uk/~ucbpmbc/">Dr. Matthew Caldwell</a></h3>
-    <p>Research Associate</p>
+    <p>Lecturer</p>
     </div>
     </div>
 
