@@ -316,14 +316,6 @@
     </div>
     </div>
 
-    <div class="col-lg-4 col-md-4 col-sm-4 col-xs-12">
-    <div class="service-item">
-    <img class="img-circle" src="assets/img/JTA.png" alt="Dr. Jerone T. Andrews (RA)" height="100px">
-    <h3><a href="http://www0.cs.ucl.ac.uk/people/Jerone.Andrews.html">Dr. Jerone Andrews</a></h3>
-    <p>Research Associate</p>
-    </div>
-    </div>
-
     <div class="col-lg-2 col-md-2 col-sm-2 col-xs-12">
     </div>
     </div>
@@ -408,7 +400,25 @@
     </div>
 
     </div>
-</div>
+
+    <div class="row">
+    
+    <div class="col-lg-2 col-md-2 col-sm-2 col-xs-12">
+    </div>
+
+    <div class="col-lg-4 col-md-4 col-sm-4 col-xs-12">
+    <div class="service-item">
+    <img class="img-circle" src="assets/img/JTA.png" alt="Dr. Jerone T. Andrews (RA)" height="100px">
+    <h3><a href="http://www0.cs.ucl.ac.uk/people/Jerone.Andrews.html">Dr. Jerone Andrews</a></h3>
+    <p>Former Research Associate</p>
+    </div>
+    </div>
+
+    <div class="col-lg-2 col-md-2 col-sm-2 col-xs-12">
+    </div>
+
+    </div>
+    
 </div>
  </section>
 <!-- Service Section End -->
