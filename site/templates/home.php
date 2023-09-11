@@ -230,7 +230,7 @@
                 <div class="fifth-slide row" style="min-height:500px">
 
                   <div class="col-md-12 col-sm-12 col-xs-12 animated fadeInLeft">
-                    <h1 class="title"><img style="align:center" width="35%" src="assets/img/persuasion_bazaar.png" alt="cartoon depicting methods of persuasion as a carnivalesque marketplace"></h1>
+                    <h1 class="title"><img style="align:center" width="25%" src="assets/img/persuasion_bazaar.png" alt="cartoon depicting methods of persuasion as a carnivalesque marketplace"></h1>
                   </div>
                   
                   <div class="col-md-2 col-sm-2 col-xs-12"></div>
@@ -252,7 +252,7 @@
                 <div class="sixth-slide row" style="min-height:500px">
 
                   <div class="col-md-12 col-sm-12 col-xs-12 animated fadeInLeft">
-                    <h1 class="title"><img style="align:center" height="40%" src="assets/img/revolutions_compared.png" alt="cartoon comparing the industrial revolution's effect on agriculture and manufacturing with AI's effects on white collar and knowledge work"></h1>
+                    <h1 class="title"><img style="align:center" width="25%" src="assets/img/revolutions_compared.png" alt="cartoon comparing the industrial revolution's effect on agriculture and manufacturing with AI's effects on white collar and knowledge work"></h1>
                   </div>
                   
                   <div class="col-md-2 col-sm-2 col-xs-12"></div>
