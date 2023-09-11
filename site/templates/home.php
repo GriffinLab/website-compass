@@ -135,6 +135,8 @@
             <li data-target="#myCarousel" data-slide-to="1"></li>
             <li data-target="#myCarousel" data-slide-to="2"></li>
             <li data-target="#myCarousel" data-slide-to="3"></li>
+            <li data-target="#myCarousel" data-slide-to="4"></li>
+            <li data-target="#myCarousel" data-slide-to="5"></li>
           </ol>
           <div class="carousel-inner" role="listbox">
             <div class="item active">
@@ -156,7 +158,7 @@
 
             <div class="item">
               <div class="container">
-                <div class="fsecond-slide row" style="min-height:500px">
+                <div class="second-slide row" style="min-height:500px">
                    <div class="col-md-2 col-sm-2 col-xs-12"></div>
                   <div class="col-md-8 col-sm-8 col-xs-12 animated fadeInLeft delay-0-5">
                     <h4 style="text-align:center">Can you spot the small metallic threat in this image?</h4>
@@ -196,6 +198,9 @@
 
               </div>
             </div>
+            
+            <!-- -->
+            
             <div class="item">
               <div class="container">
                 <div class="fourth-slide row" style="min-height:500px">
@@ -203,6 +208,7 @@
                   <div class="col-md-12 col-sm-12 col-xs-12 animated fadeInLeft">
                     <h1 class="title"><img style="align:center" width="65%" src="assets/img/Empties.png" alt="Empty verification for cargo."></h1>
                   </div>
+                  
                   <div class="col-md-2 col-sm-2 col-xs-12"></div>
 
                   <div class="col-md-8 col-sm-8 col-xs-12 animated fadeInRight delay-0-5">
@@ -215,6 +221,52 @@
 
               </div>
             </div>
+            
+            <!-- -->
+            
+            <div class="item">
+              <div class="container">
+              
+                <div class="fifth-slide row" style="min-height:500px">
+
+                  <div class="col-md-12 col-sm-12 col-xs-12 animated fadeInLeft">
+                    <h1 class="title"><img style="align:center" width="65%" src="assets/img/persuasion_bazaar.png" alt="cartoon depicting methods of persuasion as a carnivalesque marketplace"></h1>
+                  </div>
+                  
+                  <div class="col-md-2 col-sm-2 col-xs-12"></div>
+
+                  <div class="col-md-8 col-sm-8 col-xs-12 animated fadeInRight delay-0-5">
+                    <h4 style="text-align:center">Contemporary models of persuasion mostly draw on classic roots.</h4>
+                  </div>
+                  <div class="col-md-2 col-sm-2 col-xs-12"></div>
+
+                </div>
+              </div>
+            </div>
+            
+            <!-- -->
+            
+            <div class="item">
+              <div class="container">
+              
+                <div class="sixth-slide row" style="min-height:500px">
+
+                  <div class="col-md-12 col-sm-12 col-xs-12 animated fadeInLeft">
+                    <h1 class="title"><img style="align:center" width="65%" src="assets/img/revolutions_compared.png" alt="cartoon comparing the industrial revolution's effect on agriculture and manufacturing with AI's effects on white collar and knowledge work"></h1>
+                  </div>
+                  
+                  <div class="col-md-2 col-sm-2 col-xs-12"></div>
+
+                  <div class="col-md-8 col-sm-8 col-xs-12 animated fadeInRight delay-0-5">
+                    <h4 style="text-align:center">Revolutions compared.</h4>
+                  </div>
+                  <div class="col-md-2 col-sm-2 col-xs-12"></div>
+
+                </div>
+              </div>
+            </div>
+            
+            <!-- -->
             
           </div>
       
