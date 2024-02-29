@@ -1,0 +1,6 @@
+Title: Steering AI
+----
+Date:16.02.2024
+----
+Text: Lewis Griffin appeared on the (link: https://open.spotify.com/episode/2kbOo0ZRFJP440xv7MHkhS text:"Steering AI") podcast to discuss how Large Language Models could be used for political influence.
+----
