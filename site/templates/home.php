@@ -602,6 +602,13 @@ Filter by type of application:
   <tbody>
     <tr>
       <td>2023</td>
+      <td>Large Language Models &amp; Influence — DSTL Technical Report/TR149009</td>
+      <td><a href="mailto:l.griffin@ucl.ac.uk">Available on request</a></td>
+      <td>Lewis Griffin LDG</td>
+      <td>Language Models</td>
+    </tr>
+    <tr>
+      <td>2023</td>
       <td><a href="https://arxiv.org/abs/2308.12833">Use of LLMs for Illicit Purposes: Threats, Prevention Measures, and Vulnerabilities</a></td>
       <td><a href="#research" data-toggle="tooltip" data-placement="right" title="https://arxiv.org/">arXiv</a></td>
       <td>Maximilian Mozes MM, Xuanli He XH, Bennett Kleinberg BK, Lewis Griffin LDG</td>
@@ -609,8 +616,8 @@ Filter by type of application:
     </tr>
     <tr>
       <td>2023</td>
-      <td>Warning: Humans Cannot Reliably Detect Speech Deepfakes</td>
-      <td><a href="#research" data-toggle="tooltip" data-placement="right" title="https://journals.plos.org/plosone/">PLoS One</a> (in press)</td>
+      <td><a href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0285333">Warning: Humans Cannot Reliably Detect Speech Deepfakes</a></td>
+      <td><a href="#research" data-toggle="tooltip" data-placement="right" title="https://journals.plos.org/plosone/">PLoS One</a></td>
       <td>Kimberly Mai KTM, Sergi Bray SDB, Toby Davies TD, Lewis Griffin LDG</td>
       <td>Deepfakes Speech Audio</td>
     </tr>
