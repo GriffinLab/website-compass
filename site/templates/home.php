@@ -137,6 +137,7 @@
             <li data-target="#myCarousel" data-slide-to="3"></li>
             <li data-target="#myCarousel" data-slide-to="4"></li>
             <li data-target="#myCarousel" data-slide-to="5"></li>
+            <li data-target="#myCarousel" data-slide-to="6"></li>
           </ol>
           <div class="carousel-inner" role="listbox">
             <div class="item active">
@@ -252,6 +253,28 @@
                 <div class="sixth-slide row" style="min-height:500px">
 
                   <div class="col-md-12 col-sm-12 col-xs-12 animated fadeInLeft">
+                    <h1 class="title"><img style="align:center" width="23%" src="assets/img/matrix-gaming.jpg" alt="Photograph of Professor Lewis Griffin giving a talk at the Connections UK (Professional Wargaming) Conference 2024. Title slide reads: 'Matrix Gaming with Large Language Models'."></h1>
+                  </div>
+                  
+                  <div class="col-md-2 col-sm-2 col-xs-12"></div>
+
+                  <div class="col-md-8 col-sm-8 col-xs-12 animated fadeInRight delay-0-5">
+                    <h4 style="text-align:center">Connections UK (Professional Wargaming) Conference 2024</h4>
+                  </div>
+                  <div class="col-md-2 col-sm-2 col-xs-12"></div>
+
+                </div>
+              </div>
+            </div>
+            
+            <!-- -->
+            
+            <div class="item">
+              <div class="container">
+              
+                <div class="seventh-slide row" style="min-height:500px">
+
+                  <div class="col-md-12 col-sm-12 col-xs-12 animated fadeInLeft">
                     <h1 class="title"><img style="align:center" width="23%" src="assets/img/revolutions_compared.png" alt="cartoon comparing the industrial revolution's effect on agriculture and manufacturing with AI's effects on white collar and knowledge work"></h1>
                   </div>
                   
@@ -266,8 +289,7 @@
               </div>
             </div>
             
-            <!-- -->
-            
+            <!-- -->            
           </div>
       
     </div>
